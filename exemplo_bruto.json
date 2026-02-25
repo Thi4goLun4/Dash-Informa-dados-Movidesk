@@ -1,0 +1,515 @@
+{
+  "id": "1050636",
+  "protocol": null,
+  "type": 2,
+  "subject": "Solicitud alojamiento SAPUGA S.A",
+  "category": "Nacional",
+  "urgency": null,
+  "status": "Novo/Atendimento",
+  "baseStatus": "InAttendance",
+  "justification": null,
+  "origin": 3,
+  "createdDate": "2026-02-03T14:17:41.6681908",
+  "isDeleted": false,
+  "originEmailAccount": "ADF - Agrishow",
+  "owner": {
+    "id": "306619666",
+    "personType": 1,
+    "profileType": 3,
+    "businessName": "Tatiana Redondo",
+    "email": "tatiana.redondo@adturismo.com.br",
+    "phone": null
+  },
+  "ownerTeam": "ADF - Informa",
+  "createdBy": {
+    "id": "499138881",
+    "personType": 1,
+    "profileType": 2,
+    "businessName": "Mary Lopez",
+    "email": "info@sapuga.com",
+    "phone": null
+  },
+  "serviceFull": [
+    "AD Feiras",
+    "Atendimento",
+    "Feiras"
+  ],
+  "serviceFirstLevelId": 1271443,
+  "serviceFirstLevel": "Feiras",
+  "serviceSecondLevel": "Atendimento",
+  "serviceThirdLevel": "AD Feiras",
+  "contactForm": null,
+  "tags": [
+    "Alerta 24hrs"
+  ],
+  "cc": null,
+  "resolvedIn": null,
+  "closedIn": null,
+  "canceledIn": null,
+  "actionCount": 7,
+  "lifeTimeWorkingTime": null,
+  "stoppedTime": null,
+  "stoppedTimeWorkingTime": null,
+  "resolvedInFirstCall": false,
+  "chatWidget": null,
+  "chatGroup": null,
+  "chatTalkTime": null,
+  "chatWaitingTime": null,
+  "sequence": null,
+  "slaAgreement": "Grupo Arbo",
+  "slaAgreementRule": "ADF - 6 Hrs Nacional - Cliente abre via e-mail",
+  "slaSolutionTime": 0,
+  "slaResponseTime": 360,
+  "slaSolutionChangedByUser": false,
+  "slaSolutionChangedBy": {
+    "id": "499138881",
+    "personType": 1,
+    "profileType": 2,
+    "businessName": "Mary Lopez",
+    "email": "info@sapuga.com",
+    "phone": null
+  },
+  "slaSolutionDate": null,
+  "slaSolutionDateIsPaused": false,
+  "jiraIssueKey": null,
+  "redmineIssueId": null,
+  "movideskTicketNumber": null,
+  "linkedToIntegratedTicketNumber": null,
+  "reopenedIn": null,
+  "lastActionDate": "2026-02-24T21:10:41.1349471",
+  "lastUpdate": "2026-02-24T21:10:41.5289184",
+  "slaResponseDate": "2026-02-03T20:17:41.6681908",
+  "slaRealResponseDate": "2026-02-05T18:01:30.0321364",
+  "clients": [
+    {
+      "id": "499138881",
+      "personType": 1,
+      "profileType": 2,
+      "businessName": "Mary Lopez",
+      "email": "info@sapuga.com",
+      "phone": null,
+      "isDeleted": false,
+      "organization": null,
+      "address": null,
+      "complement": null,
+      "cep": null,
+      "city": null,
+      "bairro": null,
+      "number": null,
+      "reference": null
+    }
+  ],
+  "actions": [
+    {
+      "id": 1,
+      "type": 2,
+      "origin": 3,
+      "description": "Cordial saludo,\r\n\r\nAmablemente solicito de su colaboración con  información de todo lo relacionado con tiquetes y hospedaje , para dos funcionarios de nuestra compañía, que desean asistir a la feria de Agrishow.\r\n\r\nAgradezco su atención y quedo muy atenta.\r\n\r\n\r\n\r\nCordialmente,\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nMariluz López Rodríguez\r\n\r\nAsistente Administrativa\r\n\r\nTel: 601 635 81 57\r\n\r\nCel: 321 932 59 56\r\n\r\nCalle 93 B # 17 - 25 Oficina 411\r\n\r\nBogotá\r\n\r\n [cid:90455452-e394-4de7-acc4-f80255d2d711]\r\n\r\n\r\n\r\nLos mensajes de correo electrónico transmitidos a través de cuentas de correo de SAPUGA S.A. no se consideran correspondencia privada, porque estas cuentas tienen como finalidad la transmisión de datos relacionados con las actividades propias de LA EMPRESA\r\n\r\n\r\n\r\n¡SAPUGA S.A es una empresa comprometida con el medio ambiente. ¡Antes de imprimir este correo pregúntate si es necesario!\r\n\r\n\r\n",
+      "htmlDescription": "<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; color: rgba(0, 0, 0, 1)\">\n<span style=\"font-family: &quot;Aptos Narrow&quot;, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-size: 13pt\">Cordial saludo,</span></div>\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; color: rgba(0, 0, 0, 1)\">\n<span style=\"font-family: &quot;Aptos Narrow&quot;, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-size: 13pt\"><br>\n</span></div>\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; color: rgba(0, 0, 0, 1)\">\n<span style=\"font-family: &quot;Aptos Narrow&quot;, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-size: 13pt\">Amablemente solicito de su colaboración con&nbsp; información de todo lo relacionado con tiquetes y hospedaje , para dos funcionarios de nuestra compañía,\n que desean asistir a la feria de Agrishow.</span></div>\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; color: rgba(0, 0, 0, 1)\">\n<span style=\"font-family: &quot;Aptos Narrow&quot;, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-size: 13pt\"><br>\n</span></div>\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; color: rgba(0, 0, 0, 1)\">\n<span style=\"font-family: &quot;Aptos Narrow&quot;, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-size: 13pt\">Agradezco su atención y quedo muy atenta.</span></div>\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgba(0, 0, 0, 1)\">\n<br>\n</div>\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgba(0, 0, 0, 1)\">\n<br>\n</div>\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgba(0, 0, 0, 1)\">\n<br>\n</div>\n<div style=\"font-family: Arial, sans-serif; font-size: 12pt; color: rgba(32, 31, 30, 1)\">\nCordialmente,</div>\n<div>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">&nbsp;</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">&nbsp;</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\"><b>&nbsp;</b></span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\"><b>Mariluz López Rodríguez</b></span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">Asistente Administrativa</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">Tel: 601 635 81 57</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">Cel: 321 932 59 56</span></p>\n<p style=\"margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">Calle 93 B # 17 - 25 Oficina 411</span></p>\n<p style=\"margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">Bogotá</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">&nbsp;<a href=\"https://s3.amazonaws.com/movidesk-files/9AF5E158B64820383422619E6A11E7EF?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&Expires=1770214661&Signature=Ipc4MHWQsMuXyVx4GJpm%2BTW8TvI%3D\" data-original-href=\"cid:90455452-e394-4de7-acc4-f80255d2d711\" target=\"_blank\" class=\"colorbox\"><img style=\"width: 202.562px; height: 81px; max-width: 417px; margin-top: 0; margin-bottom: 0\" height=\"81\" width=\"202\" src=\"https://s3.amazonaws.com/movidesk-files/9AF5E158B64820383422619E6A11E7EF?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&Expires=1770214661&Signature=Ipc4MHWQsMuXyVx4GJpm%2BTW8TvI%3D\" data-original-src=\"cid:90455452-e394-4de7-acc4-f80255d2d711\" data-hash=\"9AF5E158B64820383422619E6A11E7EF\"></a></span></p>\n<div style=\"margin: 0; font-family: Arial, sans-serif; font-size: 12pt; color: rgba(32, 31, 30, 1)\">\n<br>\n</div>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"color: rgba(0, 0, 0, 1)\"><br>\n</span></p>\n<p style=\"margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; font-size: 8pt\">Los mensajes de correo electrónico transmitidos a través de cuentas de correo de SAPUGA S.A. no se consideran correspondencia privada, porque estas cuentas tienen como finalidad la transmisión de\n datos relacionados con las actividades propias de LA EMPRESA&nbsp;</span></p>\n<p style=\"margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; font-size: 8pt\">&nbsp;</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Calibri, sans-serif; color: rgba(83, 129, 53, 1)\"><b><i><u>¡SAPUGA S.A es una empresa comprometida con el medio ambiente. ¡Antes de imprimir este correo pregúntate si es necesario!</u></i></b></span></p>\n<p style=\"margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n&nbsp;</p>\n</div>\n",
+      "status": "Novo",
+      "justification": null,
+      "createdDate": "2026-02-03T14:17:41.7661936",
+      "createdBy": {
+        "id": "499138881",
+        "personType": 1,
+        "profileType": 2,
+        "businessName": "Mary Lopez",
+        "email": "info@sapuga.com",
+        "phone": null
+      },
+      "isDeleted": false,
+      "timeAppointments": [],
+      "attachments": [],
+      "expenses": [],
+      "tags": []
+    },
+    {
+      "id": 2,
+      "type": 2,
+      "origin": 2,
+      "description": "Hola Sra. Mary, cómo estás? \n\nEn respuesta a su solicitud, a continuación le proporcionamos la siguiente información.\n\nPara que podamos verificar los billetes de avión, le rogamos que nos informe de la fecha y el aeropuerto de embarque.\n\n\nHOTELES \n\nPara el período del evento Agrishow, los hoteles trabajan con estacia mínima desde 5 noches.\n \nHOTEL TRANSAMÉRICA\n• Estancia mínima de 6 noches.\n \nTarifas (por noche/ por habitación, con desayuno incluido):\n• Individual: USD 534,00\n• Doble: USD 534,00\nDesayuno y impuestos locales incluidos.\n \n \nHOTEL OASIS\n• Estancia mínima de 5 noches.\n \nTarifas (por noche/ por habitación, con desayuno incluido):\n• Individual: USD 567,00\n• Doble: USD 567,00\nDesayuno y impuestos locales incluidos.\n \n \nHOTEL IBIS\n• Estancia mínima de 5 noches.\n \nTarifas (por noche/ por habitación, con desayuno incluido):\n• Individual: USD 636,00\n• Doble: USD 636,00\nDesayuno y impuestos locales incluidos.\n \n \nTRANSFER\n \nTransporte Aeropuerto Ribeirão Preto / Hotel – USD 135,00\nTransporte ida y vuelta para la feria – USD 375,00 (por día)\nCoordinador hablando Español – USD 192,00 (por día)\nTransporte Hotel / Aeropuerto Ribeirão Preto – USD 135,00\n\n \nSi necesita información sobre la inscripción o sobre cómo exponer durante el evento, póngase en contacto con:\n \nASISTENCIA AL EXPOSITOR\natendimento.agrishow@informamarkets.com.br | Teléfono: +55 (11) 5043-9680\n \nASISTENCIA AL VISITANTE\nvisitante.agrishow@informamarkets.com.br | Whatsapp: +55 (11) 98238-070\n\n\nQuedo a su disposición para cualquier duda.\n \nObservaciones\n• Precios sujetos a cambios sin previo aviso.\n • Nada reservado, solo cotizado.\n • Solo la emisión garantiza la tarifa.\n\nAtentamente, \nTatiana Redondo\n\n\n",
+      "htmlDescription": "<p>Hola Sra. Mary, cómo estás?&nbsp;</p><p><br></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">En respuesta a su solicitud, a continuación le proporcionamos la siguiente información.</p><p><br></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Para que podamos verificar los billetes de avión, le rogamos que nos informe de la fecha y el aeropuerto de embarque.</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><br></p><p><br></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><strong><span style=\"background: rgba(255, 255, 0, 1)\">HOTELES</span>&nbsp;</strong></p><p><br></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Para el período del evento Agrishow, los hoteles trabajan con estacia mínima desde 5 noches.</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">&nbsp;</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><strong>HOTEL TRANSAMÉRICA</strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">• Estancia mínima de 6 noches.</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">&nbsp;</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Tarifas (por noche/ por habitación, con desayuno incluido):</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">• Individual: USD 534,00</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">• Doble: USD 534,00</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Desayuno y impuestos locales incluidos.</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><strong>&nbsp;</strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><strong>&nbsp;</strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><strong>HOTEL OASIS</strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">• Estancia mínima de 5 noches.</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">&nbsp;</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Tarifas (por noche/ por habitación, con desayuno incluido):</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">• Individual: USD 567,00</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">• Doble: USD 567,00</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Desayuno y impuestos locales incluidos.</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">&nbsp;</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><strong>&nbsp;</strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><strong>HOTEL IBIS</strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">• Estancia mínima de 5 noches.</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">&nbsp;</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Tarifas (por noche/ por habitación, con desayuno incluido):</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">• Individual: USD 636,00</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">• Doble: USD 636,00</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Desayuno y impuestos locales incluidos.</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">&nbsp;</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">&nbsp;</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><strong><span style=\"background: rgba(255, 255, 0, 1)\">TRANSFER</span></strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">&nbsp;</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Transporte Aeropuerto Ribeirão Preto / Hotel – USD 135,00</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Transporte ida y vuelta para la feria – USD 375,00 (por día)</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Coordinador hablando Español – USD 192,00 (por día)</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Transporte Hotel / Aeropuerto Ribeirão Preto – USD 135,00</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><br></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">&nbsp;</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Si necesita información sobre la inscripción o sobre cómo exponer durante el evento, póngase en contacto con:</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">&nbsp;</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><strong><span style=\"color: rgba(21, 96, 130, 1)\">ASISTENCIA AL EXPOSITOR</span></strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">atendimento.agrishow@informamarkets.com.br | Teléfono: +55 (11) 5043-9680</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">&nbsp;</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><strong><span style=\"color: rgba(21, 96, 130, 1)\">ASISTENCIA AL VISITANTE</span></strong></p><p><span style=\"font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">visitante.agrishow@informamarkets.com.br | Whatsapp: +55 (11) 98238-070</span></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><br></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><br></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><span style=\"color: rgba(95, 95, 95, 1); font-family: Aptos, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0; text-transform: none; widows: 2; word-spacing: 0; white-space: normal; background-color: rgba(255, 255, 255, 1); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none\">Quedo a su disposición para cualquier duda.</span></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">&nbsp;</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><strong><span style=\"color: rgba(238, 0, 0, 1)\">Observaciones</span></strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><span style=\"color: rgba(238, 0, 0, 1)\">• Precios sujetos a cambios sin previo aviso.<br>&nbsp;• Nada reservado, solo cotizado.<br>&nbsp;• Solo la emisión garantiza la tarifa.</span></p><div><p style=\"margin: 0; font-size: 16px; font-family: &quot;Aptos&quot;, sans-serif\"><br></p><p style=\"margin: 0; font-size: 16px; font-family: &quot;Aptos&quot;, sans-serif\"><strong>Atentamente,&nbsp;</strong></p><p style=\"margin: 0; font-size: 16px; font-family: &quot;Aptos&quot;, sans-serif\"><strong>Tatiana Redondo</strong></p><p style=\"margin: 0; font-size: 16px; font-family: &quot;Aptos&quot;, sans-serif\"><img class=\"fr-fic\" border=\"0\" width=\"1015\" height=\"171\" src=\"https://s3.amazonaws.com/movidesk-files/5236961770071E4582DDFA761F627D50?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&amp;Expires=1770399253&amp;Signature=M%2FLEzooptyFuhhNLpP0DdR0YTLM%3D\" style=\"height: 1.783in; width: 10.575in\"></p><p><br></p></div>",
+      "status": "Novo",
+      "justification": null,
+      "createdDate": "2026-02-05T18:01:30.0321364",
+      "createdBy": {
+        "id": "306619666",
+        "personType": 1,
+        "profileType": 3,
+        "businessName": "Tatiana Redondo",
+        "email": "tatiana.redondo@adturismo.com.br",
+        "phone": null
+      },
+      "isDeleted": false,
+      "timeAppointments": [],
+      "attachments": [],
+      "expenses": [],
+      "tags": []
+    },
+    {
+      "id": 3,
+      "type": 2,
+      "origin": 3,
+      "description": "Tatiana muy buen día,\r\n\r\n\r\nAgradezco tu información, cuadraremos agenda con los funcionarios que asisten al evento y te voy comentando.\r\n\r\n\r\nFeliz día!\r\n\r\n\r\n\r\n\r\n\r\n\r\nCordialmente,\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nMariluz López Rodríguez\r\n\r\nAsistente Administrativa\r\n\r\nTel: 601 635 81 57\r\n\r\nCel: 321 932 59 56\r\n\r\nCalle 93 B # 17 - 25 Oficina 411\r\n\r\nBogotá\r\n\r\n [cid:c1531f53-7ac0-4189-b0c8-4994678bf2d0]\r\n\r\n\r\n\r\nLos mensajes de correo electrónico transmitidos a través de cuentas de correo de SAPUGA S.A. no se consideran correspondencia privada, porque estas cuentas tienen como finalidad la transmisión de datos relacionados con las actividades propias de LA EMPRESA\r\n\r\n\r\n\r\n¡SAPUGA S.A es una empresa comprometida con el medio ambiente. ¡Antes de imprimir este correo pregúntate si es necesario!\r\n\r\n\r\n\r\n________________________________\r\nDe: ADF - Agrishow <agrishow@adturismo.com.br>\r\nEnviado: jueves, 5 de febrero de 2026 13:02\r\nPara: Mary Lopez <info@sapuga.com>\r\nAsunto: 1050636 - Solicitud alojamiento SAPUGA S.A\r\n\r\n\r\n",
+      "htmlDescription": "<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; color: rgba(0, 0, 0, 1)\">\n<span style=\"font-family: &quot;Aptos Narrow&quot;, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-size: 13pt\">Tatiana muy buen día,</span></div>\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; color: rgba(0, 0, 0, 1)\">\n<span style=\"font-family: &quot;Aptos Narrow&quot;, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-size: 13pt\"><br>\n</span></div>\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; color: rgba(0, 0, 0, 1)\">\n<span style=\"font-family: &quot;Aptos Narrow&quot;, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-size: 13pt\"><br>\n</span></div>\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; color: rgba(0, 0, 0, 1)\">\n<span style=\"font-family: &quot;Aptos Narrow&quot;, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-size: 13pt\">Agradezco tu información, cuadraremos agenda con los funcionarios que asisten al evento y te voy comentando.</span></div>\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; color: rgba(0, 0, 0, 1)\">\n<span style=\"font-family: &quot;Aptos Narrow&quot;, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-size: 13pt\"><br>\n</span></div>\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; color: rgba(0, 0, 0, 1)\">\n<span style=\"font-family: &quot;Aptos Narrow&quot;, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-size: 13pt\"><br>\n</span></div>\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; color: rgba(0, 0, 0, 1)\">\n<span style=\"font-family: &quot;Aptos Narrow&quot;, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-size: 13pt\">Feliz día!</span></div>\n<div>\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgba(0, 0, 0, 1)\">\n<br>\n</div>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; font-size: 11pt; color: rgba(32, 31, 30, 1)\"><a style=\"margin-top: 0; margin-bottom: 0\" name=\"x__MailAutoSig\">&nbsp;</a></span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">&nbsp;</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">Cordialmente,</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">&nbsp;</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">&nbsp;</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\"><b>&nbsp;</b></span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\"><b>Mariluz López Rodríguez</b></span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">Asistente Administrativa</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">Tel: 601 635 81 57</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">Cel: 321 932 59 56</span></p>\n<p style=\"margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">Calle 93 B # 17 - 25 Oficina 411</span></p>\n<p style=\"margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">Bogotá</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">&nbsp;<a href=\"https://s3.amazonaws.com/movidesk-files/2174A9CD68F9C06F48F950EC93FF9175?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&Expires=1770469240&Signature=3hZavpc0vo2wM3q7tQTlYcXrlZk%3D\" data-original-href=\"cid:c1531f53-7ac0-4189-b0c8-4994678bf2d0\" target=\"_blank\" class=\"colorbox\"><img style=\"width: 202.562px; height: 81px; max-width: 417px; margin-top: 0; margin-bottom: 0\" height=\"81\" width=\"202\" src=\"https://s3.amazonaws.com/movidesk-files/2174A9CD68F9C06F48F950EC93FF9175?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&Expires=1770469240&Signature=3hZavpc0vo2wM3q7tQTlYcXrlZk%3D\" data-original-src=\"cid:c1531f53-7ac0-4189-b0c8-4994678bf2d0\" data-hash=\"2174A9CD68F9C06F48F950EC93FF9175\"></a></span></p>\n<div style=\"margin: 0; font-family: Arial, sans-serif; font-size: 12pt; color: rgba(32, 31, 30, 1)\">\n<br>\n</div>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"color: rgba(0, 0, 0, 1)\"><br>\n</span></p>\n<p style=\"margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; font-size: 8pt\">Los mensajes de correo electrónico transmitidos a través de cuentas de correo de SAPUGA S.A. no se consideran correspondencia privada, porque estas cuentas tienen como finalidad la transmisión de\n datos relacionados con las actividades propias de LA EMPRESA&nbsp;</span></p>\n<p style=\"margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; font-size: 8pt\">&nbsp;</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Calibri, sans-serif; color: rgba(83, 129, 53, 1)\"><b><i><u>¡SAPUGA S.A es una empresa comprometida con el medio ambiente. ¡Antes de imprimir este correo pregúntate si es necesario!</u></i></b></span></p>\n<p style=\"margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n&nbsp;</p>\n</div>\n<div></div>\n<hr style=\"display: inline-block; width: 98%\" tabindex=\"-1\">\n<div dir=\"ltr\"><font style=\"font-size: 11pt\" color=\"#000000\"><b>De:</b> ADF - Agrishow &lt;agrishow@adturismo.com.br&gt;<br>\n<b>Enviado:</b> jueves, 5 de febrero de 2026 13:02<br>\n<b>Para:</b> Mary Lopez &lt;info@sapuga.com&gt;<br>\n<b>Asunto:</b> 1050636 - Solicitud alojamiento SAPUGA S.A</font>\n<div>&nbsp;</div>\n</div>\n<div>\n<p style=\"margin: 0\"><font><span style=\"font-family: Roboto, sans-serif\"></span></font></p><p><font>\n</font></p><p style=\"color: rgba(181, 181, 181, 1); font-size: 11px; margin: 0\"><font><font size=\"2\" color=\"#b5b5b5\"></font></font></p></div>",
+      "status": "Aguardando",
+      "justification": "Retorno do participante",
+      "createdDate": "2026-02-06T13:00:40.5295985",
+      "createdBy": {
+        "id": "499138881",
+        "personType": 1,
+        "profileType": 2,
+        "businessName": "Mary Lopez",
+        "email": "info@sapuga.com",
+        "phone": null
+      },
+      "isDeleted": false,
+      "timeAppointments": [],
+      "attachments": [
+        {
+          "fileName": "text.plain",
+          "path": "D61F5A2709EAF3738F74C9AF2C8F1533",
+          "createdBy": {
+            "id": "499138881",
+            "personType": 1,
+            "profileType": 2,
+            "businessName": "Mary Lopez",
+            "email": "info@sapuga.com",
+            "phone": null
+          },
+          "createdDate": "2026-02-06T13:00:41.9136218"
+        }
+      ],
+      "expenses": [],
+      "tags": []
+    },
+    {
+      "id": 4,
+      "type": 2,
+      "origin": 2,
+      "description": "\nHola Sra. Mary, cómo estás? \n\nAgradecemos su respuesta y quedamos a la espera.\n\nAtentamente, \n\nAtenciosamente, \nTatiana Redondo.\n\n\n",
+      "htmlDescription": "<p><br></p><p>Hola Sra. Mary, cómo estás?&nbsp;</p><p><br></p><p>Agradecemos su respuesta y quedamos a la espera.</p><p><br></p><p>Atentamente,&nbsp;</p><div><p style=\"margin: 0; font-size: 16px; font-family: &quot;Aptos&quot;, sans-serif\"><br></p><p style=\"margin: 0; font-size: 16px; font-family: &quot;Aptos&quot;, sans-serif\"><strong>Atenciosamente,&nbsp;</strong></p><p style=\"margin: 0; font-size: 16px; font-family: &quot;Aptos&quot;, sans-serif\"><strong>Tatiana Redondo.</strong></p><p style=\"margin: 0; font-size: 16px; font-family: &quot;Aptos&quot;, sans-serif\"><img style=\"height: 1.783in; width: 10.575in\" src=\"https://s3.amazonaws.com/movidesk-files/5236961770071E4582DDFA761F627D50?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&amp;Expires=1770498277&amp;Signature=hQP9MpmgJSlmNlovtOqgDbdVI1Q%3D\" height=\"171\" width=\"1015\" border=\"0\" class=\"fr-fic\"></p><p><br></p></div>",
+      "status": "Novo/Atendimento",
+      "justification": null,
+      "createdDate": "2026-02-06T21:05:50.7462474",
+      "createdBy": {
+        "id": "306619666",
+        "personType": 1,
+        "profileType": 3,
+        "businessName": "Tatiana Redondo",
+        "email": "tatiana.redondo@adturismo.com.br",
+        "phone": null
+      },
+      "isDeleted": false,
+      "timeAppointments": [],
+      "attachments": [],
+      "expenses": [],
+      "tags": []
+    },
+    {
+      "id": 5,
+      "type": 2,
+      "origin": 3,
+      "description": "Tatiana muy buen día,\r\n\r\nEspero te encuentres muy bien.\r\n\r\nEn conversación con nuestro gerente, me informa que él viajaría del 23 al 29, y el otro funcionario del 27 al 29.\r\n\r\nLos dos funcionarios salen desde el aeropuerto el Dorado en Bogotá.\r\n\r\n\r\n\r\n Agradezco tu atención y quedo muy atenta a tus comentarios.\r\n\r\n\r\n\r\n\r\n\r\nCordialmente,\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nMariluz López Rodríguez\r\n\r\nAsistente Administrativa\r\n\r\nTel: 601 635 81 57\r\n\r\nCel: 321 932 59 56\r\n\r\nCalle 93 B # 17 - 25 Oficina 411\r\n\r\nBogotá\r\n\r\n [cid:30f29cda-2366-4a94-92cf-c86c9e68dd9a]\r\n\r\n\r\n\r\nLos mensajes de correo electrónico transmitidos a través de cuentas de correo de SAPUGA S.A. no se consideran correspondencia privada, porque estas cuentas tienen como finalidad la transmisión de datos relacionados con las actividades propias de LA EMPRESA\r\n\r\n\r\n\r\n¡SAPUGA S.A es una empresa comprometida con el medio ambiente. ¡Antes de imprimir este correo pregúntate si es necesario!\r\n\r\n\r\n\r\n\r\n________________________________\r\nDe: ADF - Agrishow <agrishow@adturismo.com.br>\r\nEnviado: Jueves, 05 de Febrero de 2026 13:02\r\nPara: Mary Lopez <info@sapuga.com>\r\nAsunto: 1050636 - Solicitud alojamiento SAPUGA S.A\r\n\r\n\r\n",
+      "htmlDescription": "<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; color: rgba(0, 0, 0, 1)\">\n<span style=\"font-family: &quot;Aptos Narrow&quot;, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-size: 13pt\">Tatiana muy buen día,</span></div>\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; color: rgba(0, 0, 0, 1)\">\n<span style=\"font-family: &quot;Aptos Narrow&quot;, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-size: 13pt\"><br>\n</span></div>\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; color: rgba(0, 0, 0, 1)\">\n<span style=\"font-family: &quot;Aptos Narrow&quot;, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-size: 13pt\">Espero te encuentres muy bien.</span></div>\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; color: rgba(0, 0, 0, 1)\">\n<span style=\"font-family: &quot;Aptos Narrow&quot;, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-size: 13pt\"><br>\n</span></div>\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; color: rgba(0, 0, 0, 1)\">\n<span style=\"font-family: &quot;Aptos Narrow&quot;, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-size: 13pt\">En conversación con nuestro gerente, me informa que él viajaría del 23 al 29, y el otro funcionario del 27 al 29.</span></div>\n<div>\n<div style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">\n<span style=\"font-family: &quot;Aptos Narrow&quot;, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-size: 13pt\"><br>\n</span></div>\n<div style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">\n<span style=\"font-family: &quot;Aptos Narrow&quot;, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-size: 13pt\">Los dos funcionarios salen desde el aeropuerto el Dorado en Bogotá.</span></div>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif\">\n<span style=\"font-family: &quot;Aptos Narrow&quot;, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-size: 13pt; color: rgba(32, 31, 30, 1)\">&nbsp;</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif\">\n<span style=\"font-family: &quot;Aptos Narrow&quot;, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-size: 13pt; color: rgba(32, 31, 30, 1)\">&nbsp;Agradezco tu atención y quedo muy atenta a tus comentarios.</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif\">\n<span style=\"font-family: &quot;Aptos Narrow&quot;, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-size: 13pt; color: rgba(32, 31, 30, 1)\">&nbsp;</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">&nbsp;</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">Cordialmente,</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">&nbsp;</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">&nbsp;</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\"><b>&nbsp;</b></span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\"><b>Mariluz López Rodríguez</b></span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">Asistente Administrativa</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">Tel: 601 635 81 57</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">Cel: 321 932 59 56</span></p>\n<p style=\"margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">Calle 93 B # 17 - 25 Oficina 411</span></p>\n<p style=\"margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">Bogotá</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">&nbsp;<a href=\"https://s3.amazonaws.com/movidesk-files/36F8714F70CCA0A8115D4CF14E9E223D?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&Expires=1770907841&Signature=1l6kFpXEctZEUYPP1Gi2Pi66BKo%3D\" data-original-href=\"cid:30f29cda-2366-4a94-92cf-c86c9e68dd9a\" target=\"_blank\" class=\"colorbox\"><img style=\"width: 202.562px; height: 81px; max-width: 417px; margin-top: 0; margin-bottom: 0\" height=\"81\" width=\"202\" src=\"https://s3.amazonaws.com/movidesk-files/36F8714F70CCA0A8115D4CF14E9E223D?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&Expires=1770907841&Signature=1l6kFpXEctZEUYPP1Gi2Pi66BKo%3D\" data-original-src=\"cid:30f29cda-2366-4a94-92cf-c86c9e68dd9a\" data-hash=\"36F8714F70CCA0A8115D4CF14E9E223D\"></a></span></p>\n<div style=\"margin: 0; font-family: Arial, sans-serif; font-size: 12pt; color: rgba(32, 31, 30, 1)\">\n<br>\n</div>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"color: rgba(0, 0, 0, 1)\"><br>\n</span></p>\n<p style=\"margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; font-size: 8pt\">Los mensajes de correo electrónico transmitidos a través de cuentas de correo de SAPUGA S.A. no se consideran correspondencia privada, porque estas cuentas tienen como finalidad la transmisión de\n datos relacionados con las actividades propias de LA EMPRESA&nbsp;</span></p>\n<p style=\"margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; font-size: 8pt\">&nbsp;</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Calibri, sans-serif; color: rgba(83, 129, 53, 1)\"><b><i><u>¡SAPUGA S.A es una empresa comprometida con el medio ambiente. ¡Antes de imprimir este correo pregúntate si es necesario!</u></i></b></span></p>\n<p style=\"margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n&nbsp;</p>\n</div>\n<div><br>\n</div>\n<div style=\"font-family: Calibri, Arial, Helvetica, sans-serif; font-size: 12pt; color: rgba(0, 0, 0, 1)\">\n<br>\n</div>\n<hr style=\"display: inline-block; width: 98%\">\n<div style=\"font-family: Calibri, Arial, Helvetica, sans-serif; font-size: 12pt; color: rgba(0, 0, 0, 1)\">\n<b>De:</b>&nbsp;ADF - Agrishow &lt;agrishow@adturismo.com.br&gt;<br>\n<b>Enviado:</b>&nbsp;Jueves, 05 de Febrero de 2026 13:02<br>\n<b>Para:</b>&nbsp;Mary Lopez &lt;info@sapuga.com&gt;<br>\n<b>Asunto:</b>&nbsp;1050636 - Solicitud alojamiento SAPUGA S.A </div>\n<div style=\"font-family: Calibri, Arial, Helvetica, sans-serif; font-size: 12pt; color: rgba(0, 0, 0, 1)\">\n<br>\n</div>\n<p style=\"margin: 0; font-size: 11px; color: rgba(181, 181, 181, 1)\"><span style=\"font-family: verdana, sans-serif; font-size: 13px\"></span></p>",
+      "status": "Aguardando",
+      "justification": "Retorno do participante",
+      "createdDate": "2026-02-11T14:50:41.1618045",
+      "createdBy": {
+        "id": "499138881",
+        "personType": 1,
+        "profileType": 2,
+        "businessName": "Mary Lopez",
+        "email": "info@sapuga.com",
+        "phone": null
+      },
+      "isDeleted": false,
+      "timeAppointments": [],
+      "attachments": [
+        {
+          "fileName": "text.plain",
+          "path": "A95739CD474200F99D0E3F599099D8C7",
+          "createdBy": {
+            "id": "499138881",
+            "personType": 1,
+            "profileType": 2,
+            "businessName": "Mary Lopez",
+            "email": "info@sapuga.com",
+            "phone": null
+          },
+          "createdDate": "2026-02-11T14:50:42.8169626"
+        }
+      ],
+      "expenses": [],
+      "tags": []
+    },
+    {
+      "id": 6,
+      "type": 2,
+      "origin": 2,
+      "description": "Hola, Mariluz, ¿cómo estás?\n\nA continuación te presentamos las opciones de vuelos con salida desde Bogotá. \n\nTarifas por persona en clase económica, con equipaje facturado. \n\nVUELOS INTERNACIONALES\n\nTarifas en dólares estadounidenses\nUSD 883,21\n\n*Importante: Fecha de salida de Bogotá: 26 de abril*\nTarifas en dólares estadounidenses\nUSD 911,20\n\n\nVUELOS SÃO PAULO X RIBEIRÃO PRETO X SÃO PAULO \nEl vuelo internacional llega en São Paulo aeropuerto Guarulhos y el vuelo para Ribeirão Preto salga del aeropuerto de Congonhas. \nEs necesario cambiar de aeropuerto.\n\nFecha: 23 de abril\nTarifas en dólares estadounidenses\nUSD 150,73\n\n\nFecha: 27 de abril\nNo hay vuelos que conecten con el vuelo de llegada de Bogotá el mismo día, por lo que es necesario pasar una noche en São Paulo.\nTarifas en dólares estadounidenses\nUSD 150,73\n\n\nFecha: 29 de abril\nVuelo a primera hora de la mañana \nTarifas en dólares estadounidenses\nUSD 129,73\n\n\n\nHOTEL EM SÃO PAULO\n\nHOTEL TRANSAMERICA EXECUTIVE CONGONHAS\nTarifas (por noche/ por habitación, con desayuno incluido):\n• Individual: USD 114,00\n• Doble: USD 114,00\nDesayuno y impuestos locales incluidos.\n\n\nHOTELES EN AGRISHOW\n\nPara el período del evento Agrishow, los hoteles trabajan con estacia mínima.\n \nHOTEL TRANSAMÉRICA\n• Estancia mínima de 6 noches\n \nTarifas (por noche/ por habitación, con desayuno incluido):\n• Individual: USD 584,00\n• Doble: USD 584,00\nDesayuno y impuestos locales incluidos.\n \n \nHOTEL OASIS\n• Estancia mínima de 5 noches\n \nTarifas (por noche/ por habitación, con desayuno incluido):\n• Individual: USD 597,00\n• Doble: USD 597,00\nDesayuno y impuestos locales incluidos.\n\n \nHOTEL IBIS\n• Estancia mínima de 5 noches\n \nTarifas (por noche/ por habitación, con desayuno incluido):\n• Individual: USD 686,00\n• Doble: USD 686,00\nDesayuno y impuestos locales incluidos.\n\nTRANSFER\n \nTransporte Aeropuerto de Guarulhos/ Aeroporto de Congonhas – USD 175,00\nTransporte Aeropuerto de Guarulhos/ Hotel Transamerica Congonhas  – USD 175,00\nTransporte Hotel Transamerica Congonhas/ Aeropuerto de Congonhas – USD 138,00\n \n\nTransporte Aeropuerto Ribeirão Preto / Hotel – USD 155,00\nTransporte ida y vuelta para la feria – USD 415,00 (por día)\nCoordinador hablando Español – USD 232,00 (por día)\nTransporte Hotel / Aeropuerto Ribeirão Preto – USD 155,00\n\n\nQuedo a su disposición para cualquier duda o para continuar con las reservas. \n \n \nObservaciones\n• Precios sujetos a cambios sin previo aviso.\n • Nada reservado, solo cotizado.\n • Solo la emisión garantiza la tarifa.\n\nAtenciosamente, \nTatiana Redondo\n\n\n",
+      "htmlDescription": "<p>Hola, Mariluz, ¿cómo estás?</p><p><br></p><p>A continuación te presentamos las opciones de vuelos con salida desde Bogotá.&nbsp;</p><p><br></p><p>Tarifas por persona en clase económica, con equipaje facturado.&nbsp;</p><p><br></p><p><strong>VUELOS INTERNACIONALES</strong></p><p><br></p><p><img src=\"https://s3.amazonaws.com/movidesk-files/78BF847788A689C22C809A4F3E5EB11E?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&amp;Expires=1771683519&amp;Signature=QGRU0ofk41C8LT0wzvy8ZJBFKik%3D\" class=\"fr-fic fr-fil fr-dib\"></p><p>Tarifas en dólares estadounidenses</p><p>USD 883,21</p><p><br></p><p>*Importante: Fecha de salida de Bogotá: 26 de abril*</p><p><img src=\"https://s3.amazonaws.com/movidesk-files/760ABC5072A686CC06270B598A528BF7?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&amp;Expires=1771687607&amp;Signature=veqbCQ0rOtsTb5mg0OkFCC2lBb8%3D\" class=\"fr-fic fr-fil fr-dib\"></p><p>Tarifas en dólares estadounidenses</p><p>USD 911,20</p><p><br></p><p><br></p><p><strong>VUELOS SÃO PAULO X RIBEIRÃO PRETO X SÃO PAULO&nbsp;</strong></p><p>El vuelo internacional llega en São Paulo aeropuerto Guarulhos y el vuelo para Ribeirão Preto salga del aeropuerto de Congonhas.&nbsp;</p><p>Es necesario cambiar de aeropuerto.</p><p><br></p><p><strong>Fecha: 23 de abril</strong></p><p><strong><img src=\"https://s3.amazonaws.com/movidesk-files/CF43F56E584EE515B57B0F1D5C3ED41F?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&amp;Expires=1771683796&amp;Signature=2%2FFNHU31b3XXpR4NzS5lKlR3HmE%3D\" class=\"fr-fic fr-fil fr-dib\"></strong></p><p>Tarifas en dólares estadounidenses</p><p>USD 150,73</p><p><br></p><p style=\"box-sizing: border-box; margin: auto; color: rgba(95, 95, 95, 1); font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0; text-transform: none; widows: 2; word-spacing: 0; white-space: normal; background-color: rgba(255, 255, 255, 1); text-decoration-style: initial; text-decoration-color: initial\"><br></p><p style=\"box-sizing: border-box; margin: auto; color: rgba(95, 95, 95, 1); font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0; text-transform: none; widows: 2; word-spacing: 0; white-space: normal; background-color: rgba(255, 255, 255, 1); text-decoration-style: initial; text-decoration-color: initial\"><strong style=\"box-sizing: border-box; font-weight: 700\">Fecha: 27 de abril</strong></p><p style=\"box-sizing: border-box; margin: auto; color: rgba(95, 95, 95, 1); font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0; text-transform: none; widows: 2; word-spacing: 0; white-space: normal; background-color: rgba(255, 255, 255, 1); text-decoration-style: initial; text-decoration-color: initial\">No hay vuelos que conecten con el vuelo de llegada de Bogotá el mismo día, por lo que es necesario pasar una noche en São Paulo.</p><p style=\"box-sizing: border-box; margin: auto; color: rgba(95, 95, 95, 1); font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0; text-transform: none; widows: 2; word-spacing: 0; white-space: normal; background-color: rgba(255, 255, 255, 1); text-decoration-style: initial; text-decoration-color: initial\"><img src=\"https://s3.amazonaws.com/movidesk-files/3C0734DB6AB9E98DCC1D989D935B1C5A?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&amp;Expires=1771685432&amp;Signature=1uIyiv7EgWqWF30HjM%2B6E4AAoHM%3D\" class=\"fr-fic fr-fil fr-dib\"></p><p style=\"box-sizing: border-box; margin: auto; color: rgba(95, 95, 95, 1); font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0; text-transform: none; widows: 2; word-spacing: 0; white-space: normal; background-color: rgba(255, 255, 255, 1); text-decoration-style: initial; text-decoration-color: initial\">Tarifas en dólares estadounidenses</p><p style=\"box-sizing: border-box; margin: auto; color: rgba(95, 95, 95, 1); font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0; text-transform: none; widows: 2; word-spacing: 0; white-space: normal; background-color: rgba(255, 255, 255, 1); text-decoration-style: initial; text-decoration-color: initial\">USD 150,73</p><p><br></p><p style=\"box-sizing: border-box; margin: auto; color: rgba(95, 95, 95, 1); font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0; text-transform: none; widows: 2; word-spacing: 0; white-space: normal; background-color: rgba(255, 255, 255, 1); text-decoration-style: initial; text-decoration-color: initial\"><br></p><p style=\"box-sizing: border-box; margin: auto; color: rgba(95, 95, 95, 1); font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0; text-transform: none; widows: 2; word-spacing: 0; white-space: normal; background-color: rgba(255, 255, 255, 1); text-decoration-style: initial; text-decoration-color: initial\"><strong style=\"box-sizing: border-box; font-weight: 700\">Fecha: 29 de abril</strong></p><p style=\"box-sizing: border-box; margin: auto; color: rgba(95, 95, 95, 1); font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0; text-transform: none; widows: 2; word-spacing: 0; white-space: normal; background-color: rgba(255, 255, 255, 1); text-decoration-style: initial; text-decoration-color: initial\">Vuelo a primera hora de la mañana </p><p style=\"box-sizing: border-box; margin: auto; color: rgba(95, 95, 95, 1); font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0; text-transform: none; widows: 2; word-spacing: 0; white-space: normal; background-color: rgba(255, 255, 255, 1); text-decoration-style: initial; text-decoration-color: initial\"><img src=\"https://s3.amazonaws.com/movidesk-files/0BD9510396502848A197EAC4A326ADDA?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&amp;Expires=1771694833&amp;Signature=%2FdnSIUZ3q%2F34JRLbBw9Ia9rnQqg%3D\" class=\"fr-fic fr-fil fr-dib\"></p><p style=\"box-sizing: border-box; margin: auto; color: rgba(95, 95, 95, 1); font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0; text-transform: none; widows: 2; word-spacing: 0; white-space: normal; background-color: rgba(255, 255, 255, 1); text-decoration-style: initial; text-decoration-color: initial\">Tarifas en dólares estadounidenses</p><p style=\"box-sizing: border-box; margin: auto; color: rgba(95, 95, 95, 1); font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0; text-transform: none; widows: 2; word-spacing: 0; white-space: normal; background-color: rgba(255, 255, 255, 1); text-decoration-style: initial; text-decoration-color: initial\">USD 129,73</p><p style=\"box-sizing: border-box; margin: auto\"><br></p><p><br></p><p><br></p><p><strong><span style=\"color: rgba(65, 168, 95, 1)\">HOTEL EM SÃO PAULO</span></strong></p><p><br></p><p><strong>HOTEL TRANSAMERICA EXECUTIVE CONGONHAS</strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Tarifas (por noche/ por habitación, con desayuno incluido):</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">• Individual: USD 114,00</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">• Doble: USD 114,00</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Desayuno y impuestos locales incluidos.</p><p><br></p><p><br></p><p><strong><span style=\"color: rgba(65, 168, 95, 1)\">HOTELES EN AGRISHOW</span></strong></p><p><br></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Para el período del evento Agrishow, los hoteles trabajan con estacia mínima.</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">&nbsp;</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><strong>HOTEL TRANSAMÉRICA</strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">• <span style=\"color: rgba(238, 0, 0, 1)\">Estancia mínima de 6 noches</span></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">&nbsp;</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Tarifas (por noche/ por habitación, con desayuno incluido):</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">• Individual: USD 584,00</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">• Doble: USD 584,00</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Desayuno y impuestos locales incluidos.</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><strong>&nbsp;</strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><strong>&nbsp;</strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><strong>HOTEL OASIS</strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">• <span style=\"color: rgba(238, 0, 0, 1)\">Estancia mínima de 5 noches</span></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">&nbsp;</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Tarifas (por noche/ por habitación, con desayuno incluido):</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">• Individual: USD 597,00</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">• Doble: USD 597,00</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Desayuno y impuestos locales incluidos.</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><br></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><strong>&nbsp;</strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><strong>HOTEL IBIS</strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">• <span style=\"color: rgba(238, 0, 0, 1)\">Estancia mínima de 5 noches</span></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">&nbsp;</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Tarifas (por noche/ por habitación, con desayuno incluido):</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">• Individual: USD 686,00</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">• Doble: USD 686,00</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Desayuno y impuestos locales incluidos.</p><p><br></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><strong><span style=\"background: rgba(255, 255, 0, 1)\">TRANSFER</span></strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">&nbsp;</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Transporte Aeropuerto de Guarulhos/ Aeroporto de Congonhas – USD 175,00</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Transporte Aeropuerto de Guarulhos/ Hotel Transamerica Congonhas &nbsp;– USD 175,00</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Transporte Hotel Transamerica Congonhas/ Aeropuerto de Congonhas – USD 138,00</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">&nbsp;</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><br></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Transporte Aeropuerto Ribeirão Preto / Hotel – USD 155,00</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Transporte ida y vuelta para la feria – USD 415,00 (por día)</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Coordinador hablando Español – USD 232,00 (por día)</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Transporte Hotel / Aeropuerto Ribeirão Preto – USD 155,00</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><br></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><br></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Quedo a su disposición para cualquier duda o para continuar con las reservas.&nbsp;</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">&nbsp;</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">&nbsp;</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><strong><span style=\"color: rgba(238, 0, 0, 1)\">Observaciones</span></strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><span style=\"color: rgba(238, 0, 0, 1)\">• Precios sujetos a cambios sin previo aviso.<br>&nbsp;• Nada reservado, solo cotizado.<br>&nbsp;• Solo la emisión garantiza la tarifa.</span></p><p style=\"margin: 0; font-size: 16px; font-family: &quot;Aptos&quot;, sans-serif\"><br></p><p style=\"margin: 0; font-size: 16px; font-family: &quot;Aptos&quot;, sans-serif\"><strong>Atenciosamente,&nbsp;</strong></p><p style=\"margin: 0; font-size: 16px; font-family: &quot;Aptos&quot;, sans-serif\"><strong>Tatiana Redondo</strong></p><p style=\"margin: 0; font-size: 16px; font-family: &quot;Aptos&quot;, sans-serif\"><img class=\"fr-fic\" border=\"0\" width=\"1015\" height=\"171\" src=\"https://s3.amazonaws.com/movidesk-files/5236961770071E4582DDFA761F627D50?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&amp;Expires=1771682956&amp;Signature=r1Dv7K3Z5a%2F%2BRNND0LqZuj4n3NQ%3D\" style=\"height: 1.783in; width: 10.575in\"></p><p><br></p>",
+      "status": "Novo/Atendimento",
+      "justification": null,
+      "createdDate": "2026-02-20T17:28:26.2087605",
+      "createdBy": {
+        "id": "306619666",
+        "personType": 1,
+        "profileType": 3,
+        "businessName": "Tatiana Redondo",
+        "email": "tatiana.redondo@adturismo.com.br",
+        "phone": null
+      },
+      "isDeleted": false,
+      "timeAppointments": [],
+      "attachments": [],
+      "expenses": [],
+      "tags": []
+    },
+    {
+      "id": 7,
+      "type": 2,
+      "origin": 3,
+      "description": "Tatiana muy buenas tardes,\r\n\r\nContinúo a la espera de confirmación de itinerarios de las personas que asisten para notificarte.\r\n\r\n\r\nAgradezco tu colaboración.\r\n\r\n\r\n\r\n\r\nCordialmente,\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nMariluz López Rodríguez\r\n\r\nAsistente Administrativa\r\n\r\nTel: 601 635 81 57\r\n\r\nCel: 321 932 59 56\r\n\r\nCalle 93 B # 17 - 25 Oficina 411\r\n\r\nBogotá\r\n\r\n [cid:ec2fb129-5800-459e-96f5-aff38b4e52c3]\r\n\r\n\r\n\r\nLos mensajes de correo electrónico transmitidos a través de cuentas de correo de SAPUGA S.A. no se consideran correspondencia privada, porque estas cuentas tienen como finalidad la transmisión de datos relacionados con las actividades propias de LA EMPRESA\r\n\r\n\r\n\r\n¡SAPUGA S.A es una empresa comprometida con el medio ambiente. ¡Antes de imprimir este correo pregúntate si es necesario!\r\n\r\n\r\n\r\n________________________________\r\nDe: ADF - Agrishow <agrishow@adturismo.com.br>\r\nEnviado: viernes, 20 de febrero de 2026 12:28\r\nPara: Mary Lopez <info@sapuga.com>\r\nAsunto: 1050636 - Solicitud alojamiento SAPUGA S.A\r\n\r\n\r\n",
+      "htmlDescription": "<div style=\"font-family: &quot;Aptos Narrow&quot;, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-size: 13pt; color: rgba(0, 0, 0, 1)\">\nTatiana muy buenas tardes,</div>\n<div style=\"font-family: &quot;Aptos Narrow&quot;, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-size: 13pt; color: rgba(0, 0, 0, 1)\">\n<br>\n</div>\n<div style=\"font-family: &quot;Aptos Narrow&quot;, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-size: 13pt; color: rgba(0, 0, 0, 1)\">\nContinúo a la espera de confirmación de itinerarios de las personas que asisten para notificarte.</div>\n<div style=\"font-family: &quot;Aptos Narrow&quot;, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-size: 13pt; color: rgba(0, 0, 0, 1)\">\n<br>\n</div>\n<div style=\"font-family: &quot;Aptos Narrow&quot;, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-size: 13pt; color: rgba(0, 0, 0, 1)\">\n<br>\n</div>\n<div style=\"font-family: &quot;Aptos Narrow&quot;, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-size: 13pt; color: rgba(0, 0, 0, 1)\">\nAgradezco tu colaboración.</div>\n<div>\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgba(0, 0, 0, 1)\">\n<br>\n</div>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; font-size: 11pt; color: rgba(32, 31, 30, 1)\"><a style=\"margin-top: 0; margin-bottom: 0\" name=\"x__MailAutoSig\">&nbsp;</a></span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">Cordialmente,</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">&nbsp;</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">&nbsp;</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\"><b>&nbsp;</b></span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\"><b>Mariluz López Rodríguez</b></span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">Asistente Administrativa</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">Tel: 601 635 81 57</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">Cel: 321 932 59 56</span></p>\n<p style=\"margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">Calle 93 B # 17 - 25 Oficina 411</span></p>\n<p style=\"margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">Bogotá</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; color: rgba(32, 31, 30, 1)\">&nbsp;<a href=\"https://s3.amazonaws.com/movidesk-files/B8341ACAA114BCA415C5BDAAA1562D64?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&Expires=1772053841&Signature=efwX0MMbz65hkclfUieekuF1qFc%3D\" data-original-href=\"cid:ec2fb129-5800-459e-96f5-aff38b4e52c3\" target=\"_blank\" class=\"colorbox\"><img style=\"width: 202.562px; height: 81px; max-width: 417px; margin-top: 0; margin-bottom: 0\" height=\"81\" width=\"202\" src=\"https://s3.amazonaws.com/movidesk-files/B8341ACAA114BCA415C5BDAAA1562D64?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&Expires=1772053841&Signature=efwX0MMbz65hkclfUieekuF1qFc%3D\" data-original-src=\"cid:ec2fb129-5800-459e-96f5-aff38b4e52c3\" data-hash=\"B8341ACAA114BCA415C5BDAAA1562D64\"></a></span></p>\n<div style=\"margin: 0; font-family: Arial, sans-serif; font-size: 12pt; color: rgba(32, 31, 30, 1)\">\n<br>\n</div>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"color: rgba(0, 0, 0, 1)\"><br>\n</span></p>\n<p style=\"margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; font-size: 8pt\">Los mensajes de correo electrónico transmitidos a través de cuentas de correo de SAPUGA S.A. no se consideran correspondencia privada, porque estas cuentas tienen como finalidad la transmisión de\n datos relacionados con las actividades propias de LA EMPRESA&nbsp;</span></p>\n<p style=\"margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Arial, sans-serif; font-size: 8pt\">&nbsp;</span></p>\n<p style=\"background-color: rgba(255, 255, 255, 1); margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n<span style=\"font-family: Calibri, sans-serif; color: rgba(83, 129, 53, 1)\"><b><i><u>¡SAPUGA S.A es una empresa comprometida con el medio ambiente. ¡Antes de imprimir este correo pregúntate si es necesario!</u></i></b></span></p>\n<p style=\"margin: 0; font-family: Aptos, sans-serif; font-size: 12pt\">\n&nbsp;</p>\n</div>\n<div></div>\n<hr style=\"display: inline-block; width: 98%\" tabindex=\"-1\">\n<div dir=\"ltr\"><font style=\"font-size: 11pt\" color=\"#000000\"><b>De:</b> ADF - Agrishow &lt;agrishow@adturismo.com.br&gt;<br>\n<b>Enviado:</b> viernes, 20 de febrero de 2026 12:28<br>\n<b>Para:</b> Mary Lopez &lt;info@sapuga.com&gt;<br>\n<b>Asunto:</b> 1050636 - Solicitud alojamiento SAPUGA S.A</font>\n<div>&nbsp;</div>\n</div>\n<div>\n<p style=\"margin: 0\"><font><span style=\"font-family: Roboto, sans-serif\"></span></font></p><p><font>\n</font></p><p style=\"color: rgba(181, 181, 181, 1); font-size: 11px; margin: 0\"><font><font size=\"2\" color=\"#b5b5b5\"></font></font></p></div>",
+      "status": "Aguardando",
+      "justification": "Retorno do participante",
+      "createdDate": "2026-02-24T21:10:41.1349471",
+      "createdBy": {
+        "id": "499138881",
+        "personType": 1,
+        "profileType": 2,
+        "businessName": "Mary Lopez",
+        "email": "info@sapuga.com",
+        "phone": null
+      },
+      "isDeleted": false,
+      "timeAppointments": [],
+      "attachments": [
+        {
+          "fileName": "text.plain",
+          "path": "D16468E10522C5E0423D686B0A7011FF",
+          "createdBy": {
+            "id": "499138881",
+            "personType": 1,
+            "profileType": 2,
+            "businessName": "Mary Lopez",
+            "email": "info@sapuga.com",
+            "phone": null
+          },
+          "createdDate": "2026-02-24T21:10:41.7644002"
+        }
+      ],
+      "expenses": [],
+      "tags": []
+    }
+  ],
+  "parentTickets": [],
+  "childrenTickets": [],
+  "ownerHistories": [
+    {
+      "ownerTeam": null,
+      "owner": null,
+      "changedBy": {
+        "id": "499138881",
+        "personType": 1,
+        "profileType": 2,
+        "businessName": "Mary Lopez",
+        "email": "info@sapuga.com",
+        "phone": null
+      },
+      "changedDate": "2026-02-03T14:17:41.6681908",
+      "permanencyTimeFullTime": 0.9629038999999999,
+      "permanencyTimeWorkingTime": 0.9629038999999999
+    },
+    {
+      "ownerTeam": "ADF - Informa",
+      "owner": {
+        "id": "306619666",
+        "personType": 1,
+        "profileType": 3,
+        "businessName": "Tatiana Redondo",
+        "email": "tatiana.redondo@adturismo.com.br",
+        "phone": null
+      },
+      "changedBy": {
+        "id": "499138881",
+        "personType": 1,
+        "profileType": 2,
+        "businessName": "Mary Lopez",
+        "email": "info@sapuga.com",
+        "phone": null
+      },
+      "changedDate": "2026-02-03T14:17:44.4411955",
+      "permanencyTimeFullTime": null,
+      "permanencyTimeWorkingTime": null
+    }
+  ],
+  "statusHistories": [
+    {
+      "status": "Novo",
+      "justification": null,
+      "changedBy": {
+        "id": "499138881",
+        "personType": 1,
+        "profileType": 2,
+        "businessName": "Mary Lopez",
+        "email": "info@sapuga.com",
+        "phone": null
+      },
+      "changedDate": "2026-02-03T14:17:41.6681908",
+      "permanencyTimeFullTime": 186229.5593642,
+      "permanencyTimeWorkingTime": 81829.5593642
+    },
+    {
+      "status": "Aguardando",
+      "justification": "Retorno do participante",
+      "changedBy": {
+        "id": "306619666",
+        "personType": 1,
+        "profileType": 3,
+        "businessName": "Tatiana Redondo",
+        "email": "tatiana.redondo@adturismo.com.br",
+        "phone": null
+      },
+      "changedDate": "2026-02-05T18:01:33.4331758",
+      "permanencyTimeFullTime": 68347.9621771,
+      "permanencyTimeWorkingTime": 16147.962177099998
+    },
+    {
+      "status": "Novo/Atendimento",
+      "justification": null,
+      "changedBy": {
+        "id": "499138881",
+        "personType": 1,
+        "profileType": 2,
+        "businessName": "Mary Lopez",
+        "email": "info@sapuga.com",
+        "phone": null
+      },
+      "changedDate": "2026-02-06T13:00:41.9136218",
+      "permanencyTimeFullTime": 29109.599865599997,
+      "permanencyTimeWorkingTime": 29109.599865599997
+    },
+    {
+      "status": "Aguardando",
+      "justification": "Retorno do participante",
+      "changedBy": {
+        "id": "306619666",
+        "personType": 1,
+        "profileType": 3,
+        "businessName": "Tatiana Redondo",
+        "email": "tatiana.redondo@adturismo.com.br",
+        "phone": null
+      },
+      "changedDate": "2026-02-06T21:05:51.6854199",
+      "permanencyTimeFullTime": 409490.3224591,
+      "permanencyTimeWorkingTime": 80090.3224591
+    },
+    {
+      "status": "Novo/Atendimento",
+      "justification": null,
+      "changedBy": {
+        "id": "499138881",
+        "personType": 1,
+        "profileType": 2,
+        "businessName": "Mary Lopez",
+        "email": "info@sapuga.com",
+        "phone": null
+      },
+      "changedDate": "2026-02-11T14:50:42.8169626",
+      "permanencyTimeFullTime": 787064.5800192,
+      "permanencyTimeWorkingTime": 248864.5800192
+    },
+    {
+      "status": "Aguardando",
+      "justification": "Retorno do participante",
+      "changedBy": {
+        "id": "306619666",
+        "personType": 1,
+        "profileType": 3,
+        "businessName": "Tatiana Redondo",
+        "email": "tatiana.redondo@adturismo.com.br",
+        "phone": null
+      },
+      "changedDate": "2026-02-20T17:28:27.6469873",
+      "permanencyTimeFullTime": 358933.8029059,
+      "permanencyTimeWorkingTime": 81733.8029059
+    },
+    {
+      "status": "Novo/Atendimento",
+      "justification": null,
+      "changedBy": {
+        "id": "499138881",
+        "personType": 1,
+        "profileType": 2,
+        "businessName": "Mary Lopez",
+        "email": "info@sapuga.com",
+        "phone": null
+      },
+      "changedDate": "2026-02-24T21:10:41.7644002",
+      "permanencyTimeFullTime": null,
+      "permanencyTimeWorkingTime": null
+    }
+  ],
+  "satisfactionSurveyResponses": [],
+  "customFieldValues": [
+    {
+      "customFieldId": 205913,
+      "customFieldRuleId": 107131,
+      "line": 1,
+      "value": null,
+      "items": [
+        {
+          "personId": null,
+          "clientId": null,
+          "team": null,
+          "customFieldItem": "Agrishow",
+          "storageFileGuid": "",
+          "fileName": null
+        }
+      ]
+    },
+    {
+      "customFieldId": 206220,
+      "customFieldRuleId": 107539,
+      "line": 1,
+      "value": null,
+      "items": [
+        {
+          "personId": null,
+          "clientId": null,
+          "team": null,
+          "customFieldItem": "Participante",
+          "storageFileGuid": "",
+          "fileName": null
+        }
+      ]
+    },
+    {
+      "customFieldId": 208535,
+      "customFieldRuleId": 108593,
+      "line": 1,
+      "value": null,
+      "items": [
+        {
+          "personId": null,
+          "clientId": null,
+          "team": null,
+          "customFieldItem": "AD FEIRAS - INFORMA",
+          "storageFileGuid": "",
+          "fileName": null
+        }
+      ]
+    },
+    {
+      "customFieldId": 234900,
+      "customFieldRuleId": 123605,
+      "line": 1,
+      "value": "COLOMBIA",
+      "items": []
+    }
+  ],
+  "assets": [],
+  "webhookEvents": null
+}
