@@ -49,7 +49,7 @@ app.get('/api/tickets', async (req, res) => {
                 params: {
                     token: MOVIDESK_TOKEN,
                     $select: 'id,createdDate,originEmailAccount,ownerTeam',
-                    $filter: `createdDate ge ${startDate} and (ownerTeam eq 'ADF - Brasil' or ownerTeam eq 'ADF - Informa')`,
+                    $filter: `createdDate ge ${startDate} and ownerTeam eq 'ADF - Informa'`,
                     $orderby: 'createdDate desc',
                     $top: top,
                     $skip: skip
