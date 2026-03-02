@@ -150,19 +150,17 @@ async function syncTickets() {
                 for (const cfv of ticket.customFieldValues) {
                     if (allowedFields.includes(cfv.customFieldId)) {
                         let valText = cfv.value ? String(cfv.value) : null;
-                        let customFieldItem = null;
                         
+                        // Se for uma lista (dropdown), sobrescrevemos o valText com o item selecionado
                         if (cfv.items && cfv.items.length > 0 && cfv.items[0].customFieldItem) {
-                            customFieldItem = String(cfv.items[0].customFieldItem);
+                            valText = String(cfv.items[0].customFieldItem);
                         }
 
                         await connection.execute(`
-                            INSERT INTO movidesk_custom_field_values (ticket_id, custom_field_id, val_text, custom_field_item)
-                            VALUES (?, ?, ?, ?)
-                            ON DUPLICATE KEY UPDATE 
-                                val_text = VALUES(val_text),
-                                custom_field_item = VALUES(custom_field_item)
-                        `, [ticket.id, cfv.customFieldId, valText, customFieldItem]);
+                            INSERT INTO movidesk_custom_field_values (ticket_id, custom_field_id, val_text)
+                            VALUES (?, ?, ?)
+                            ON DUPLICATE KEY UPDATE val_text = VALUES(val_text)
+                        `, [ticket.id, cfv.customFieldId, valText]);
                     }
                 }
             }
