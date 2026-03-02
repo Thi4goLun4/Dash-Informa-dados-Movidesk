@@ -69,7 +69,11 @@ async function syncTickets() {
             let ticket;
             try {
                 const detailResponse = await axios.get(BASE_URL, {
-                    params: { token: MOVIDESK_TOKEN, id: ticketId }
+                    params: { 
+                        token: MOVIDESK_TOKEN, 
+                        id: ticketId,
+                        $expand: 'owner,actions,customFieldValues'
+                    }
                 });
                 ticket = detailResponse.data;
             } catch (err) {
