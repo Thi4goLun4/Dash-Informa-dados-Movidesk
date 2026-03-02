@@ -43,8 +43,7 @@ async function syncTickets() {
                 params: {
                     token: MOVIDESK_TOKEN,
                     $filter: `ownerTeam eq 'ADF - Informa'`, 
-                    $select: 'id,subject,category,status,baseStatus,owner,serviceFirstLevel,serviceSecondLevel,serviceThirdLevel,createdDate,resolvedIn,actionCount,lifetimeWorkingTime,customFieldValues,actions',
-                    $expand: 'owner,actions,customFieldValues',
+                    $select: 'id', // Trazemos apenas o ID para a listagem para economizar banda
                     $top: top,
                     $skip: skip
                 }
@@ -52,7 +51,8 @@ async function syncTickets() {
 
             const data = response.data;
             if (data && data.length > 0) {
-                allTickets = allTickets.concat(data);
+                // Guardamos apenas os IDs
+                allTickets = allTickets.concat(data.map(t => t.id));
                 skip += top;
             } else {
                 hasMore = false;
@@ -61,8 +61,26 @@ async function syncTickets() {
 
         console.log(`🟢 Foram encontrados ${allTickets.length} tickets. Iniciando sincronização no banco...`);
 
-        // 2. Fase de Inserção / Atualização no Banco de Dados (Upsert)
-        for (const ticket of allTickets) {
+        // 2. Fase de Inserção / Atualização no Banco de Dados (Upsert Detalhado)
+        let processedCount = 0;
+        for (const ticketId of allTickets) {
+            
+            // Buscar os detalhes completos de CADA ticket (Isso garante que todas as 'actions' venham)
+            let ticket;
+            try {
+                const detailResponse = await axios.get(BASE_URL, {
+                    params: { token: MOVIDESK_TOKEN, id: ticketId }
+                });
+                ticket = detailResponse.data;
+            } catch (err) {
+                console.error(`⚠️ Erro ao buscar detalhes do ticket ${ticketId}: ${err.message}`);
+                continue; // Pula para o próximo se der erro
+            }
+
+            processedCount++;
+            if (processedCount % 50 === 0) {
+                 console.log(`✅ ${processedCount}/${allTickets.length} tickets processados...`);
+            }
             
             // 2.1 Sincronizar Pessoa Responsável (Owner)
             if (ticket.owner) {
