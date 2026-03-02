@@ -64,6 +64,7 @@ CREATE TABLE movidesk_custom_field_values (
     ticket_id INT,
     custom_field_id INT,
     val_text TEXT, 
+    custom_field_item VARCHAR(255),
     PRIMARY KEY (ticket_id, custom_field_id),
     CONSTRAINT fk_val_ticket FOREIGN KEY (ticket_id) REFERENCES movidesk_tickets(id),
     CONSTRAINT fk_val_def FOREIGN KEY (custom_field_id) REFERENCES movidesk_custom_field_definitions(id)
