@@ -1,17 +1,17 @@
 {
-  "id": "1062631",
+  "id": "1071897",
   "protocol": null,
   "type": 2,
-  "subject": "ENC: Cotação Passagem Aérea",
+  "subject": "Estadia e passagem",
   "category": "Nacional",
   "urgency": null,
   "status": "Novo/Atendimento",
   "baseStatus": "InAttendance",
   "justification": null,
   "origin": 3,
-  "createdDate": "2026-02-19T14:36:41.4785024",
+  "createdDate": "2026-03-01T13:13:40.8557438",
   "isDeleted": false,
-  "originEmailAccount": "ADF - Hospitalar",
+  "originEmailAccount": "ADF - Future Print",
   "owner": {
     "id": "546823535",
     "personType": 1,
@@ -22,11 +22,11 @@
   },
   "ownerTeam": "ADF - Informa",
   "createdBy": {
-    "id": "1563084590",
+    "id": "5391303",
     "personType": 1,
     "profileType": 2,
-    "businessName": "Milena Tomaz",
-    "email": "Milena.tomaz@adturismo.com.br",
+    "businessName": "Viviane Coelho Moraes",
+    "email": "mariamariasubliart@gmail.com",
     "phone": null
   },
   "serviceFull": [
@@ -39,18 +39,15 @@
   "serviceSecondLevel": "Atendimento",
   "serviceThirdLevel": "AD Feiras",
   "contactForm": null,
-  "tags": [
-    "Finalizados sem ação",
-    "Alerta 24hrs"
-  ],
+  "tags": [],
   "cc": null,
   "resolvedIn": null,
   "closedIn": null,
   "canceledIn": null,
-  "actionCount": 6,
+  "actionCount": 3,
   "lifeTimeWorkingTime": null,
-  "stoppedTime": 10369,
-  "stoppedTimeWorkingTime": 3139,
+  "stoppedTime": null,
+  "stoppedTimeWorkingTime": null,
   "resolvedInFirstCall": false,
   "chatWidget": null,
   "chatGroup": null,
@@ -63,11 +60,11 @@
   "slaResponseTime": 360,
   "slaSolutionChangedByUser": false,
   "slaSolutionChangedBy": {
-    "id": "1563084590",
+    "id": "5391303",
     "personType": 1,
     "profileType": 2,
-    "businessName": "Milena Tomaz",
-    "email": "Milena.tomaz@adturismo.com.br",
+    "businessName": "Viviane Coelho Moraes",
+    "email": "mariamariasubliart@gmail.com",
     "phone": null
   },
   "slaSolutionDate": null,
@@ -76,18 +73,18 @@
   "redmineIssueId": null,
   "movideskTicketNumber": null,
   "linkedToIntegratedTicketNumber": null,
-  "reopenedIn": "2026-03-02T18:54:02.5041032",
-  "lastActionDate": "2026-03-03T20:04:42.7339286",
-  "lastUpdate": "2026-03-03T20:04:43.3173655",
-  "slaResponseDate": "2026-02-19T20:36:41.4785024",
-  "slaRealResponseDate": "2026-02-19T14:48:06.58999",
+  "reopenedIn": null,
+  "lastActionDate": "2026-03-03T17:05:41.3843439",
+  "lastUpdate": "2026-03-03T17:05:41.8900714",
+  "slaResponseDate": "2026-03-02T18:00:00",
+  "slaRealResponseDate": "2026-03-03T15:20:24.1091213",
   "clients": [
     {
-      "id": "744738259",
+      "id": "5391303",
       "personType": 1,
       "profileType": 2,
-      "businessName": "Marina Nunes",
-      "email": "Marina.Nunes@informa.com",
+      "businessName": "Viviane Coelho Moraes",
+      "email": "mariamariasubliart@gmail.com",
       "phone": null,
       "isDeleted": false,
       "organization": null,
@@ -105,17 +102,17 @@
       "id": 1,
       "type": 2,
       "origin": 3,
-      "description": "\n\n\n\n \n \n\n\nAtenciosamente, \nMilena Tomaz.\nmilena@adturismo.com.br\n\n\n \nRegra importante: Tarifas sem bagagem (light), não permitem reembolso.\nTarifas com bagagem, permitem reembolso, mediante regra tarifária de cada cia. aérea.\nAlterações são permitidas (exceto para bilhetes emitidos na classe PROMO), podendo haver cobrança de multa e diferença tarifária.\n\n \nObservação\n- Nada reservado, apenas cotado;\n- Sujeito a disponibilidade mediante solicitação de reserva;\n- Valores sujeitos à alteração sem prévio aviso;\n- Os valores informados em dólar (USD) ou euro (EUR), serão convertidos ao câmbio do dia do fechamento;\n \nInformações Importantes sobre a sua viagem\n- Para\nviagens nacionais, apresentar cédula de identidade original em bom estado, emitida há menos de 10 anos ou CNH original com foto;\n- Para viagens internacionais, você precisará apresentar\npassaporte com validade mínima de 6 meses a contar da data de embarque e no mínimo 2 folhas em branco lado a lado,\nvisto e certificado de vacina, entre outras exigências que variam de acordo com o país de destino e/ou conexão. Verifique com antecedência, antes de viajar, quais são as exigências de cada país;\n-\nPara viajar para os Estados Unidos com passaporte europeu, basta preencher uma solicitação online, para tirar o ESTA (Electronic\n System for Travel Authorization) - https://esta.cbp.dhs.gov/\n- Para visualizar as informações de\nvacinas: clique aqui\n- Recomendamos que adquira\nseguro viagem, independente do seu destino; Passageiros com viagem para Europa devem apresentar seguro viagem com cobertura de EUR 30.000;\n- A apresentação para embarque deve ocorrer com 2 horas de antecedência para voos domésticos e 3 horas para voos internacionais, lembrando que o terminal\n de embarque está sujeito a alteração;\n \nATENCAO! EVITE INCONVENIENTES: Verifique se a grafia do seu nome na reserva aérea está de acordo com o documento de viagem que\n será apresentado no embarque. Caso não esteja informe antes da emissão\n \n \n \n \n\n\n \n\nDe: Nunes, Marina ",
-      "htmlDescription": "<div>\n<p><span><o:p>&nbsp;</o:p></span></p>\n<p><span><o:p>&nbsp;</o:p></span></p>\n<div>\n<div>\n<div>\n<p>Atenciosamente, <span><o:p></o:p></span></p>\n<p>Milena Tomaz.<o:p></o:p></p>\n<p><a href=\"mailto:milena@adturismo.com.br\"><span style=\"color: rgba(0, 0, 255, 1)\">milena@adturismo.com.br</span></a><span><o:p></o:p></span></p>\n<p><span><a href=\"https://s3.amazonaws.com/movidesk-files/DC4116FD81D2DF90E5016547A4937212?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&Expires=1771598201&Signature=aaMHukd0e%2FfkquBOGZOMBUTeU1I%3D\" data-original-href=\"cid:image002.jpg@01DCA193.D53CD370\" target=\"_blank\" class=\"colorbox\"><img border=\"0\" width=\"1015\" height=\"171\" style=\"width: 10.575in; height: 1.7833in\" src=\"https://s3.amazonaws.com/movidesk-files/DC4116FD81D2DF90E5016547A4937212?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&Expires=1771598201&Signature=aaMHukd0e%2FfkquBOGZOMBUTeU1I%3D\" data-original-src=\"cid:image002.jpg@01DCA193.D53CD370\" data-hash=\"DC4116FD81D2DF90E5016547A4937212\"></a><o:p></o:p></span></p>\n<p><span style=\"font-family: &quot;Calibri&quot;, sans-serif\"><a href=\"https://s3.amazonaws.com/movidesk-files/BD45A20DD06FB739F672C0B1DE30E921?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&Expires=1771598201&Signature=FAUiPvMW7CfnuFA7AuL6CkqK8n0%3D\" data-original-href=\"cid:image003.jpg@01DCA193.D53CD370\" target=\"_blank\" class=\"colorbox\"><img border=\"0\" width=\"1014\" height=\"182\" style=\"width: 10.5666in; height: 1.9in\" src=\"https://s3.amazonaws.com/movidesk-files/BD45A20DD06FB739F672C0B1DE30E921?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&Expires=1771598201&Signature=FAUiPvMW7CfnuFA7AuL6CkqK8n0%3D\" data-original-src=\"cid:image003.jpg@01DCA193.D53CD370\" data-hash=\"BD45A20DD06FB739F672C0B1DE30E921\"></a></span><span style=\"font-family: &quot;Calibri&quot;, sans-serif\"><o:p></o:p></span></p>\n<p>&nbsp;<o:p></o:p></p>\n<p><b><span>Regra importante: Tarifas sem bagagem (light), não permitem reembolso.<br>\nTarifas com bagagem, permitem reembolso, mediante regra tarifária de cada cia. aérea.</span></b><span><o:p></o:p></span></p>\n<p><b><span>Alterações são permitidas (exceto para bilhetes emitidos na classe PROMO), podendo haver cobrança de multa e diferença tarifária.\n</span></b><span><o:p></o:p></span></p>\n<p style=\"background: rgba(255, 255, 255, 1)\"><b><i><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(255, 0, 0, 1)\">&nbsp;</span></i></b><span><o:p></o:p></span></p>\n<p style=\"background: rgba(255, 255, 255, 1)\"><b><i><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(255, 0, 0, 1)\">Observação</span></i></b><span><o:p></o:p></span></p>\n<p style=\"background: rgba(255, 255, 255, 1)\"><i><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 0, 0, 1)\">- Nada reservado, apenas cotado;</span></i><span><o:p></o:p></span></p>\n<p style=\"background: rgba(255, 255, 255, 1)\"><i><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 0, 0, 1)\">- Sujeito a disponibilidade mediante solicitação de reserva;</span></i><span><o:p></o:p></span></p>\n<p style=\"background: rgba(255, 255, 255, 1)\"><i><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 0, 0, 1)\">- Valores sujeitos à alteração sem prévio aviso;</span></i><span><o:p></o:p></span></p>\n<p style=\"background: rgba(255, 255, 255, 1)\"><i><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 0, 0, 1)\">- Os valores informados em dólar (USD) ou euro (EUR), serão convertidos ao câmbio do dia do fechamento;</span></i><span><o:p></o:p></span></p>\n<p style=\"background: rgba(255, 255, 255, 1)\"><i><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 0, 0, 1)\">&nbsp;</span></i><span><o:p></o:p></span></p>\n<p style=\"background: rgba(255, 255, 255, 1)\"><b><i><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(255, 0, 0, 1)\">Informações Importantes sobre a sua viagem</span></i></b><span><o:p></o:p></span></p>\n<p><i><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 0, 0, 1)\">- Para\n<b>viagens nacionais</b>, apresentar cédula de identidade original em bom estado, emitida há menos de 10 anos ou CNH original com foto;</span></i><span><o:p></o:p></span></p>\n<p><i><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 0, 0, 1)\">- Para viagens<b> internacionais</b>, você precisará apresentar\n<b>passaporte</b> com validade mínima de 6 meses a contar da data de embarque e no mínimo 2 folhas em branco lado a lado,\n<b>visto</b> e <b>certificado de vacina</b>, entre outras exigências que variam de acordo com o país de destino e/ou conexão. Verifique com antecedência, antes de viajar, quais são as exigências de cada país;</span></i><span><o:p></o:p></span></p>\n<p><i><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif\">-\n</span></i><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 0, 0, 1); background: rgba(255, 255, 255, 1)\">Para viajar para os Estados Unidos com passaporte europeu, basta preencher uma solicitação online, para tirar o&nbsp;</span><a href=\"https://www.eurodicas.com.br/esta-usa/\" target=\"_blank\"><b><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 0, 0, 1); border: 1pt none rgba(0, 0, 0, 1); padding: 0; background: rgba(255, 255, 255, 1)\">ESTA&nbsp;</span></b></a><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 0, 0, 1); background: rgba(255, 255, 255, 1)\">(Electronic\n System for Travel Authorization) - </span><a href=\"https://esta.cbp.dhs.gov/\"><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 0, 0, 1); background: rgba(255, 255, 255, 1)\">https://esta.cbp.dhs.gov/</span></a><span><o:p></o:p></span></p>\n<p><i><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 0, 0, 1)\">- Para visualizar as informações de\n<b>vacinas</b>:&nbsp;</span></i><a href=\"http://www.anvisa.gov.br/hotsite/viajante/2015-ith-county-list.pdf\"><i><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 0, 0, 1)\">clique aqui</span></i></a><span><o:p></o:p></span></p>\n<p><i><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 0, 0, 1)\">- Recomendamos que adquira\n<b>seguro viagem</b>, independente do seu destino; Passageiros com viagem para Europa devem apresentar seguro viagem com cobertura de EUR 30.000;</span></i><span><o:p></o:p></span></p>\n<p><i><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 0, 0, 1)\">- A apresentação para embarque deve ocorrer com&nbsp;2&nbsp;horas de antecedência para voos domésticos e&nbsp;3&nbsp;horas para voos internacionais, lembrando que o terminal\n de embarque está sujeito a alteração;</span></i><span><o:p></o:p></span></p>\n<p style=\"background: rgba(255, 255, 255, 1)\"><i><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(31, 73, 125, 1)\">&nbsp;</span></i><span><o:p></o:p></span></p>\n<p style=\"background: rgba(255, 255, 255, 1)\"><i><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(255, 0, 0, 1)\">ATENCAO! EVITE INCONVENIENTES: Verifique se a grafia do seu nome na reserva aérea está de acordo com o documento de viagem que\n será apresentado no embarque. Caso não esteja&nbsp;<b>informe antes da emissão</b></span></i><span><o:p></o:p></span></p>\n<p><span style=\"font-family: &quot;Calibri&quot;, sans-serif\">&nbsp;</span><span><o:p></o:p></span></p>\n<p><span>&nbsp;<o:p></o:p></span></p>\n<p>&nbsp;<o:p></o:p></p>\n<p><o:p>&nbsp;</o:p></p>\n</div>\n</div>\n</div>\n<p><span><o:p>&nbsp;</o:p></span></p>\n<div>\n<div style=\"border-top: 1pt solid rgba(225, 225, 225, 1); border-right: none; border-bottom: none; border-left: none; padding: 3pt 0 0\">\n<p><b><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\">De:</span></b><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\"> Nunes, Marina &lt;Marina.Nunes@informa.com&gt;\n<br>\n<b>Enviada em:</b> quarta-feira, 18 de fevereiro de 2026 17:03<br>\n<b>Para:</b> Milena Tomaz &lt;Milena.tomaz@adturismo.com.br&gt;<br>\n<b>Assunto:</b> Cotação Passagem Aérea<o:p></o:p></span></p>\n</div>\n</div>\n<p><o:p>&nbsp;</o:p></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\">Oi Milena, boa tarde<o:p></o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\">Tudo bem?<o:p></o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\"><o:p>&nbsp;</o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\">Meu nome é Marina, faço parte do time de Marketing da Hospitalar.<o:p></o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\"><o:p>&nbsp;</o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\">Solicito, por gentileza, cotação dos seguintes itens:<o:p></o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\"><o:p>&nbsp;</o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\">- 1</span><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif; color: rgba(0, 0, 0, 1)\"> passagem aérea de ida e volta, no trecho Goiás-São Paulo (chegada\n dia 19 de maio | partida 22 ou 23 de maio)<o:p></o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif; color: rgba(0, 0, 0, 1)\">-\n</span><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\">1</span><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif; color: rgba(0, 0, 0, 1)\"> passagem aérea de volta, no trecho São Paulo- Goiás (23 de maio)<o:p></o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif; color: rgba(0, 0, 0, 1)\"><o:p>&nbsp;</o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif; color: rgba(0, 0, 0, 1)\">Você precisa de mais alguma informação para fazer a cotação?<o:p></o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif; color: rgba(0, 0, 0, 1)\"><o:p>&nbsp;</o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif; color: rgba(0, 0, 0, 1)\">Aguardo retorno.<o:p></o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif; color: rgba(0, 0, 0, 1)\"><o:p>&nbsp;</o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif; color: rgba(0, 0, 0, 1)\">Obrigada.\n<o:p></o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\"><o:p>&nbsp;</o:p></span></p>\n<p><b><span style=\"font-size: 10pt; font-family: &quot;Calibri&quot;, sans-serif; color: rgba(0, 34, 68, 1)\">Marina Nunes</span></b><span style=\"font-size: 10pt; font-family: &quot;Calibri&quot;, sans-serif; color: rgba(0, 34, 68, 1)\"><o:p></o:p></span></p>\n<p><span style=\"font-size: 10pt; font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 34, 68, 1)\">Marketing<o:p></o:p></span></p>\n<p><span style=\"font-family: &quot;Calibri&quot;, sans-serif\"><a href=\"https://s3.amazonaws.com/movidesk-files/0D989020E4772B3C7DD6675E4C5389BB?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&Expires=1771598201&Signature=%2BHROGEk1ECXLs9ElOoKD%2F1lkKIg%3D\" data-original-href=\"cid:image001.jpg@01DCA0F8.18E88F20\" target=\"_blank\" class=\"colorbox\"><img border=\"0\" width=\"159\" height=\"80\" style=\"width: 1.6583in; height: 0.8333in\" src=\"https://s3.amazonaws.com/movidesk-files/0D989020E4772B3C7DD6675E4C5389BB?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&Expires=1771598201&Signature=%2BHROGEk1ECXLs9ElOoKD%2F1lkKIg%3D\" data-original-src=\"cid:image001.jpg@01DCA0F8.18E88F20\" data-hash=\"0D989020E4772B3C7DD6675E4C5389BB\"></a></span><span lang=\"EN-GB\" style=\"font-family: &quot;Calibri&quot;, sans-serif; color: rgba(0, 34, 68, 1)\"><o:p></o:p></span></p>\n<p style=\"margin-bottom: 4.15pt\"><span style=\"font-size: 9pt; font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 34, 68, 1)\">Av. Dra. Ruth Cardoso, 7.221 – 22º andar | São Paulo | Brasil<o:p></o:p></span></p>\n<p><span style=\"font-size: 9pt; font-family: &quot;Calibri&quot;, sans-serif\"><a href=\"http://www.informamarkets.com.br/\"><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(5, 99, 193, 1)\">www.informamarkets.com.br</span></a></span><span style=\"font-size: 9pt; font-family: &quot;Calibri Light&quot;, sans-serif\">\n<u><span style=\"color: rgba(5, 99, 193, 1)\"><o:p></o:p></span></u></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\"><o:p>&nbsp;</o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif; color: rgba(0, 0, 0, 1)\"><o:p>&nbsp;</o:p></span></p>\n<p><span><o:p>&nbsp;</o:p></span></p>\n<p style=\"margin: 15pt\"><o:p>&nbsp;</o:p></p>\n<p><span><o:p>&nbsp;</o:p></span></p>\n<p style=\"margin: 15pt\"><span style=\"font-size: 9pt; font-family: &quot;Rockwell&quot;, serif; color: rgba(0, 120, 215, 1)\">Information Classification: General<o:p></o:p></span></p>\n</div>\n",
+      "description": "*Bom dia,Gostaria de saber os valores de vocês para passagem\r\naérea e estadia para o período de 15 a 17, com saída de Florianópolis.Fico\r\nno aguardo do retorno.*\r\n*Viviane C. Moraes*\r\n48 - 999271965\r\n",
+      "htmlDescription": "<div dir=\"auto\"><span style=\"border-color: rgba(0, 0, 0, 1)\"><i style=\"border-color: rgba(0, 0, 0, 1)\"><div style=\"font-size: inherit\"><p style=\"font-style: normal; letter-spacing: normal; text-indent: 0; text-transform: none; white-space: normal; word-spacing: 0; text-decoration: none; font-size: inherit; color: rgba(0, 0, 0, 1)\"><span>Bom dia,</span></p><p style=\"font-style: normal; letter-spacing: normal; text-indent: 0; text-transform: none; white-space: normal; word-spacing: 0; text-decoration: none; font-size: inherit; color: rgba(0, 0, 0, 1)\">Gostaria de saber os valores de vocês para&nbsp;<span>passagem aérea</span>&nbsp;e&nbsp;<span>estadia</span>&nbsp;para o período de&nbsp;<span>15 a 17</span>, com&nbsp;<span>saída de Florianópolis</span>.</p><p style=\"font-style: normal; letter-spacing: normal; text-indent: 0; text-transform: none; white-space: normal; word-spacing: 0; text-decoration: none; font-size: inherit; color: rgba(0, 0, 0, 1)\" dir=\"auto\">Fico no aguardo do retorno.<br></p></div><br></i></span></div><div dir=\"auto\"><b style=\"border-color: rgba(0, 0, 0, 1)\"><i style=\"border-color: rgba(0, 0, 0, 1)\">Viviane C. Moraes</i></b><br clear=\"all\"></div><div dir=\"auto\"><div dir=\"auto\"><div dir=\"ltr\"><div dir=\"ltr\"><div>48 - 999271965</div><div><a href=\"https://ci3.googleusercontent.com/mail-sig/AIorK4zwameZWR5KJsRLqBzNcHPuUh8f5WtaqOiDCEZ-Eru0vTS6Hbsoa2SjllveO78MO-OFxeoICsm3YbXr\" data-original-href=\"\" target=\"_blank\" class=\"colorbox\"><img width=\"96\" height=\"50\" style=\"font-size: 12.8px\" src=\"https://ci3.googleusercontent.com/mail-sig/AIorK4zwameZWR5KJsRLqBzNcHPuUh8f5WtaqOiDCEZ-Eru0vTS6Hbsoa2SjllveO78MO-OFxeoICsm3YbXr\"></a><br></div></div></div></div></div>\n",
       "status": "Novo",
       "justification": null,
-      "createdDate": "2026-02-19T14:36:41.5436331",
+      "createdDate": "2026-03-01T13:13:40.9811738",
       "createdBy": {
-        "id": "1563084590",
+        "id": "5391303",
         "personType": 1,
         "profileType": 2,
-        "businessName": "Milena Tomaz",
-        "email": "Milena.tomaz@adturismo.com.br",
+        "businessName": "Viviane Coelho Moraes",
+        "email": "mariamariasubliart@gmail.com",
         "phone": null
       },
       "isDeleted": false,
@@ -128,11 +125,11 @@
       "id": 2,
       "type": 2,
       "origin": 2,
-      "description": "Bom dia, Marina! Tudo bem?\n\nSegue abaixo cotação, conforme solicitado. Se você tiver as preferências dos horários dos voos, podemos filtrar ainda mais as opções.\n\n- 1 passagem aérea de ida e volta, no trecho Goiás-São Paulo (chegada dia 19 de maio | partida 22 ou 23 de maio)\n\nIDA - Valor por pessoa\n\n\nVOLTA - Valor por pessoa - dia 22\n\n\nVOLTA - Valor por pessoa - dia 23\n\n\n- 1 passagem aérea de volta, no trecho São Paulo- Goiás (23 de maio)\n  \nPara reservar, precisaremos dos nomes completos, datas de nascimento e CPF's dos passageiros, por favor.\n\nFico à disposição para qualquer dúvida,\n\nAtenciosamente, \nMilena Tomaz.\n\n \nRegra importante: Tarifas sem bagagem (light), não permitem reembolso.\n Tarifas com bagagem, permitem reembolso, mediante regra tarifária de cada cia. aérea.\nAlterações são permitidas (exceto para bilhetes emitidos na classe PROMO), podendo haver cobrança de multa e diferença tarifária. \n \nObservação\n- Nada reservado, apenas cotado;\n- Sujeito a disponibilidade mediante solicitação de reserva;\n- Valores sujeitos à alteração sem prévio aviso;\n- Os valores informados em dólar (USD) ou euro (EUR), serão convertidos ao câmbio do dia do fechamento;\n\n",
-      "htmlDescription": "<div><p>Bom dia, Marina! Tudo bem?</p><p><br></p><p>Segue abaixo cotação, conforme solicitado. Se você tiver as preferências dos horários dos voos, podemos filtrar ainda mais as opções.</p><p><br></p><p>- 1 passagem aérea de ida e volta, no trecho Goiás-São Paulo (chegada dia 19 de maio | partida 22 ou 23 de maio)</p><p><br></p><p><strong><u>IDA - Valor por pessoa</u></strong></p><p><img src=\"https://s3.amazonaws.com/movidesk-files/F6258E766790C79B5C90568D5286867F?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&amp;Expires=1771598515&amp;Signature=pmr0%2B710p8WDI1b%2Bt0XNKo770vc%3D\" class=\"fr-fic fr-fil fr-dib\"></p><p><img src=\"https://s3.amazonaws.com/movidesk-files/9AFB3AF7ED990902B3F58D6EEF265F0E?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&amp;Expires=1771598533&amp;Signature=3B%2B5nNntElv6efSDiga76RvjACU%3D\" class=\"fr-fic fr-fil fr-dib\"></p><p><br></p><p><strong><u>VOLTA - Valor por pessoa - dia 22</u></strong></p><p><img src=\"https://s3.amazonaws.com/movidesk-files/6B43FD0AF29B47B7795411820CA228D8?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&amp;Expires=1771598604&amp;Signature=6OwPV%2BfMFxPIQo1yLGiKztP%2Bzmk%3D\" class=\"fr-fic fr-fil fr-dib\"></p><p><img src=\"https://s3.amazonaws.com/movidesk-files/E3EEE6A89361BBBFF908355E6B650A92?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&amp;Expires=1771598646&amp;Signature=6R4zUQLXstxcoB7YFgryjshVK0s%3D\" class=\"fr-fic fr-fil fr-dib\"></p><p><br></p><p><strong><u>VOLTA - Valor por pessoa - dia 23</u></strong></p><p><img src=\"https://s3.amazonaws.com/movidesk-files/C6AC3A11ECD67CF772F071124CFF10DE?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&amp;Expires=1771598730&amp;Signature=aD0hpMhDzwrza219ZACc2JUZTd4%3D\" class=\"fr-fic fr-fil fr-dib\"></p><p><img src=\"https://s3.amazonaws.com/movidesk-files/9D72EEBF9AAA320E2ECF1425C11D35BF?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&amp;Expires=1771598748&amp;Signature=1uxBmHsDHJkWJakXlQS%2FzQ%2Fy8BA%3D\" class=\"fr-fic fr-fil fr-dib\"></p><p><br></p><p>- 1 passagem aérea de volta, no trecho São Paulo- Goiás (23 de maio)</p><p><img style=\"box-sizing: border-box; border: 0 none; vertical-align: top; cursor: pointer; padding: 0 1px; user-select: none; max-width: 100%; margin: 5px auto 5px 0; display: block; float: none; text-align: left; color: rgba(95, 95, 95, 1); font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0; text-transform: none; widows: 2; word-spacing: 0; white-space: normal; background-color: rgba(255, 255, 255, 1); text-decoration-style: initial; text-decoration-color: initial\" class=\"fr-fic fr-fil fr-dib\" src=\"https://s3.amazonaws.com/movidesk-files/C6AC3A11ECD67CF772F071124CFF10DE?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&amp;Expires=1771598730&amp;Signature=aD0hpMhDzwrza219ZACc2JUZTd4%3D\">&nbsp;<img style=\"box-sizing: border-box; border: 0 none; vertical-align: top; cursor: pointer; padding: 0 1px; user-select: none; max-width: 100%; margin: 5px auto 5px 0; display: block; float: none; text-align: left; color: rgba(95, 95, 95, 1); font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0; text-transform: none; widows: 2; word-spacing: 0; white-space: normal; background-color: rgba(255, 255, 255, 1); text-decoration-style: initial; text-decoration-color: initial\" class=\"fr-fic fr-fil fr-dib\" src=\"https://s3.amazonaws.com/movidesk-files/9D72EEBF9AAA320E2ECF1425C11D35BF?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&amp;Expires=1771598748&amp;Signature=1uxBmHsDHJkWJakXlQS%2FzQ%2Fy8BA%3D\"> </p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Para reservar, precisaremos dos nomes completos, datas de nascimento e CPF's dos passageiros, por favor.</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><br></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Fico à disposição para qualquer dúvida,</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><br></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Atenciosamente,&nbsp;</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Milena Tomaz.</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><br><img alt=\"undefined\" class=\"fr-fic\" src=\"https://s3.amazonaws.com/movidesk-files/51A0B0E430B7E05629BA63B72B1FDEF0?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&amp;Expires=1771598225&amp;Signature=vbAE6tU46OfuvUXIjK0COlIIFP4%3D\" style=\"box-sizing: border-box; border: 0 none; vertical-align: bottom; cursor: pointer; padding: 0 1px; user-select: none; max-width: calc(100% - 10px); margin-left: 5px; margin-right: 5px; display: inline-block; float: none; min-width: 10px; color: rgba(65, 65, 65, 1); font-family: sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0; text-transform: none; widows: 2; word-spacing: 0; white-space: normal; background-color: rgba(255, 255, 255, 1); text-decoration-style: initial; text-decoration-color: initial; width: 831px\"></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">&nbsp;</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><strong>Regra importante: Tarifas sem bagagem (light), não permitem reembolso.<br>&nbsp;Tarifas com bagagem, permitem reembolso, mediante regra tarifária de cada cia. aérea.</strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><strong>Alterações são permitidas (exceto para bilhetes emitidos na classe PROMO), podendo haver cobrança de multa e diferença tarifária.&nbsp;</strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif; background: rgba(255, 255, 255, 1)\"><strong><em><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(255, 0, 0, 1)\">&nbsp;</span></em></strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif; background: rgba(255, 255, 255, 1)\"><strong><em><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(255, 0, 0, 1)\">Observação</span></em></strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif; background: rgba(255, 255, 255, 1)\"><em><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 0, 0, 1)\">- Nada reservado, apenas cotado;</span></em></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif; background: rgba(255, 255, 255, 1)\"><em><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 0, 0, 1)\">- Sujeito a disponibilidade mediante solicitação de reserva;</span></em></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif; background: rgba(255, 255, 255, 1)\"><em><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 0, 0, 1)\">- Valores sujeitos à alteração sem prévio aviso;</span></em></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif; background: rgba(255, 255, 255, 1)\"><em><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 0, 0, 1)\">- Os valores informados em dólar (USD) ou euro (EUR), serão convertidos ao câmbio do dia do fechamento;</span></em></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif; background: rgba(255, 255, 255, 1)\"><br></p></div>",
+      "description": "Viviane, bom dia! Tudo bem?\n\nDevemos considerar o orçamento para 1 pessoa somente?\n\nFico à disposição para qualquer dúvida,\n \nAtenciosamente, \nMilena Tomaz.\n\n \nRegra importante: Tarifas sem bagagem (light), não permitem reembolso.\n Tarifas com bagagem, permitem reembolso, mediante regra tarifária de cada cia. aérea.\nAlterações são permitidas (exceto para bilhetes emitidos na classe PROMO), podendo haver cobrança de multa e diferença tarifária. \n \nObservação\n- Nada reservado, apenas cotado;\n- Sujeito a disponibilidade mediante solicitação de reserva;\n- Valores sujeitos à alteração sem prévio aviso;\n- Os valores informados em dólar (USD) ou euro (EUR), serão convertidos ao câmbio do dia do fechamento;\n\n",
+      "htmlDescription": "<div><p>Viviane, bom dia! Tudo bem?</p><p><br></p><p>Devemos considerar o orçamento para 1 pessoa somente?</p><p><br></p><p>Fico à disposição para qualquer dúvida,</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">&nbsp;</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Atenciosamente,&nbsp;</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Milena Tomaz.</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><br><img alt=\"undefined\" class=\"fr-fic\" src=\"https://s3.amazonaws.com/movidesk-files/51A0B0E430B7E05629BA63B72B1FDEF0?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&amp;Expires=1772637554&amp;Signature=cnBQLRPoR5DMm1MmHLjPESN2tZc%3D\" style=\"box-sizing: border-box; border: 0 none; vertical-align: bottom; cursor: pointer; padding: 0 1px; user-select: none; max-width: calc(100% - 10px); margin-left: 5px; margin-right: 5px; display: inline-block; float: none; min-width: 10px; color: rgba(65, 65, 65, 1); font-family: sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0; text-transform: none; widows: 2; word-spacing: 0; white-space: normal; background-color: rgba(255, 255, 255, 1); text-decoration-style: initial; text-decoration-color: initial; width: 831px\"></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">&nbsp;</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><strong>Regra importante: Tarifas sem bagagem (light), não permitem reembolso.<br>&nbsp;Tarifas com bagagem, permitem reembolso, mediante regra tarifária de cada cia. aérea.</strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><strong>Alterações são permitidas (exceto para bilhetes emitidos na classe PROMO), podendo haver cobrança de multa e diferença tarifária.&nbsp;</strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif; background: rgba(255, 255, 255, 1)\"><strong><em><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(255, 0, 0, 1)\">&nbsp;</span></em></strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif; background: rgba(255, 255, 255, 1)\"><strong><em><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(255, 0, 0, 1)\">Observação</span></em></strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif; background: rgba(255, 255, 255, 1)\"><em><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 0, 0, 1)\">- Nada reservado, apenas cotado;</span></em></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif; background: rgba(255, 255, 255, 1)\"><em><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 0, 0, 1)\">- Sujeito a disponibilidade mediante solicitação de reserva;</span></em></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif; background: rgba(255, 255, 255, 1)\"><em><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 0, 0, 1)\">- Valores sujeitos à alteração sem prévio aviso;</span></em></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif; background: rgba(255, 255, 255, 1)\"><em><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 0, 0, 1)\">- Os valores informados em dólar (USD) ou euro (EUR), serão convertidos ao câmbio do dia do fechamento;</span></em></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif; background: rgba(255, 255, 255, 1)\"><br></p></div>",
       "status": "Em atendimento",
       "justification": null,
-      "createdDate": "2026-02-19T14:48:06.58999",
+      "createdDate": "2026-03-03T15:20:24.1091213",
       "createdBy": {
         "id": "546823535",
         "personType": 1,
@@ -151,119 +148,22 @@
       "id": 3,
       "type": 2,
       "origin": 3,
-      "description": "Olá, boa tarde\r\nTudo bem?\r\n\r\nObrigada pelas informações enviadas e peço desculpas.\r\nO e-mail foi para a caixa de SPAM.\r\n\r\nJá passei para o responsável para aprovação dos valores e retorno nos próximos dias.\r\n\r\nNos falamos em breve.\r\n\r\nMarina Nunes\r\nMarketing\r\n[cid:image001.jpg@01DCA73D.EC3DA9A0]\r\nAv. Dra. Ruth Cardoso, 7.221 – 22º andar | São Paulo | Brasil\r\nwww.informamarkets.com.br<http://www.informamarkets.com.br/>\r\n\r\n\r\n\r\n\r\n\r\nInformation Classification: General\r\nDe: ADF - Hospitalar <hospitalar@adturismo.com.br>\r\nEnviada em: sexta-feira, 20 de fevereiro de 2026 11:55\r\nPara: Nunes, Marina <Marina.Nunes@informa.com>\r\nAssunto: 1062631 - ENC: Cotação Passagem Aérea\r\n\r\n\r\n",
-      "htmlDescription": "<div>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\">Olá, boa tarde<o:p></o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\">Tudo bem?<o:p></o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\"><o:p>&nbsp;</o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\">Obrigada pelas informações enviadas e peço desculpas.<o:p></o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\">O e-mail foi para a caixa de SPAM.<o:p></o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\"><o:p>&nbsp;</o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\">Já passei para o responsável para aprovação dos valores e retorno nos próximos dias.<o:p></o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\"><o:p>&nbsp;</o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\">Nos falamos em breve.<o:p></o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\"><o:p>&nbsp;</o:p></span></p>\n<p><b><span style=\"font-size: 10pt; font-family: &quot;Calibri&quot;, sans-serif; color: rgba(0, 34, 68, 1)\">Marina Nunes</span></b><span style=\"font-size: 10pt; font-family: &quot;Calibri&quot;, sans-serif; color: rgba(0, 34, 68, 1)\"><o:p></o:p></span></p>\n<p><span style=\"font-size: 10pt; font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 34, 68, 1)\">Marketing<o:p></o:p></span></p>\n<p><span style=\"font-family: &quot;Calibri&quot;, sans-serif\"><a href=\"https://s3.amazonaws.com/movidesk-files/0D989020E4772B3C7DD6675E4C5389BB?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&Expires=1772221001&Signature=Bv4CSFKXvO1eAUgS8PzUcqeHgZU%3D\" data-original-href=\"cid:image001.jpg@01DCA73D.EC3DA9A0\" target=\"_blank\" class=\"colorbox\"><img width=\"159\" height=\"80\" style=\"width: 1.6527in; height: 0.8333in\" src=\"https://s3.amazonaws.com/movidesk-files/0D989020E4772B3C7DD6675E4C5389BB?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&Expires=1772221001&Signature=Bv4CSFKXvO1eAUgS8PzUcqeHgZU%3D\" data-original-src=\"cid:image001.jpg@01DCA73D.EC3DA9A0\" data-hash=\"0D989020E4772B3C7DD6675E4C5389BB\"></a></span><span lang=\"EN-GB\" style=\"font-family: &quot;Calibri&quot;, sans-serif; color: rgba(0, 34, 68, 1)\"><o:p></o:p></span></p>\n<p style=\"margin-bottom: 4.15pt\"><span style=\"font-size: 9pt; font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 34, 68, 1)\">Av. Dra. Ruth Cardoso, 7.221 – 22º andar | São Paulo | Brasil<o:p></o:p></span></p>\n<p><span style=\"font-size: 9pt; font-family: &quot;Calibri&quot;, sans-serif\"><a href=\"http://www.informamarkets.com.br/\"><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(5, 99, 193, 1)\">www.informamarkets.com.br</span></a></span><span style=\"font-size: 9pt; font-family: &quot;Calibri Light&quot;, sans-serif\">\n<u><span style=\"color: rgba(5, 99, 193, 1)\"><o:p></o:p></span></u></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\"><o:p>&nbsp;</o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\"><o:p>&nbsp;</o:p></span></p>\n<p><span><o:p>&nbsp;</o:p></span></p>\n<br>\n<p style=\"font-family: Rockwell; font-size: 9pt; color: rgba(0, 120, 215, 1); margin: 15pt; font-style: normal; font-weight: normal; text-decoration: none\" align=\"Left\">\nInformation Classification: General<br>\n</p>\n<div style=\"border-top: 1pt solid rgba(225, 225, 225, 1); border-right: none; border-bottom: none; border-left: none; padding: 3pt 0 0\">\n<p><b><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\">De:</span></b><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\"> ADF - Hospitalar &lt;hospitalar@adturismo.com.br&gt;\n<br>\n<b>Enviada em:</b> sexta-feira, 20 de fevereiro de 2026 11:55<br>\n<b>Para:</b> Nunes, Marina &lt;Marina.Nunes@informa.com&gt;<br>\n<b>Assunto:</b> 1062631 -&nbsp;ENC: Cotação Passagem Aérea<o:p></o:p></span></p>\n</div>\n<p><o:p>&nbsp;</o:p></p>\n<p style=\"margin: 0\"><span style=\"font-size: 10pt; font-family: &quot;Verdana&quot;, sans-serif; color: rgba(181, 181, 181, 1)\"></span></p></div>",
+      "description": "Boa tarde\r\n\r\nSeria para 3 pessoas\r\n\r\nEm ter., 3 de mar. de 2026 às 12:21, ADF - Future Print <\r\nfutureprint@adturismo.com.br> escreveu:\r\n\r\n> ",
+      "htmlDescription": "<div dir=\"ltr\">Boa tarde<div><br></div><div>Seria para 3 pessoas</div></div><br><div><div dir=\"ltr\">Em ter., 3 de mar. de 2026 às 12:21, ADF - Future Print &lt;<a href=\"mailto:futureprint@adturismo.com.br\">futureprint@adturismo.com.br</a>&gt; escreveu:<br></div><blockquote style=\"margin: 0 0 0 0.8ex; border-left: 1px solid rgba(204, 204, 204, 1); padding-left: 1ex\"><p style=\"margin: 0\"><font><span style=\"font-family: Roboto, sans-serif\"></span></font></p><p style=\"color: rgba(181, 181, 181, 1); font-size: 11px; margin: 0\"><font><font size=\"2\" color=\"#b5b5b5\"></font></font></p></blockquote></div>",
       "status": "Aguardando",
-      "justification": "Retorno do cliente",
-      "createdDate": "2026-02-26T19:36:41.2313016",
+      "justification": "Retorno do participante",
+      "createdDate": "2026-03-03T17:05:41.3843439",
       "createdBy": {
-        "id": "744738259",
+        "id": "5391303",
         "personType": 1,
         "profileType": 2,
-        "businessName": "Marina Nunes",
-        "email": "Marina.Nunes@informa.com",
-        "phone": null
-      },
-      "isDeleted": false,
-      "timeAppointments": [],
-      "attachments": [
-        {
-          "fileName": "text.plain",
-          "path": "5BFC9405525265460F3E6FBF49C305F2",
-          "createdBy": {
-            "id": "744738259",
-            "personType": 1,
-            "profileType": 2,
-            "businessName": "Marina Nunes",
-            "email": "Marina.Nunes@informa.com",
-            "phone": null
-          },
-          "createdDate": "2026-02-26T19:36:42.1566529"
-        }
-      ],
-      "expenses": [],
-      "tags": []
-    },
-    {
-      "id": 4,
-      "type": 2,
-      "origin": 2,
-      "description": "Marina, tudo bem?\n\nCombinado, fico no aguardo.\n \nAtenciosamente, \nMilena Tomaz.\n\n \nRegra importante: Tarifas sem bagagem (light), não permitem reembolso.\n Tarifas com bagagem, permitem reembolso, mediante regra tarifária de cada cia. aérea.\nAlterações são permitidas (exceto para bilhetes emitidos na classe PROMO), podendo haver cobrança de multa e diferença tarifária. \n \nObservação\n- Nada reservado, apenas cotado;\n- Sujeito a disponibilidade mediante solicitação de reserva;\n- Valores sujeitos à alteração sem prévio aviso;\n- Os valores informados em dólar (USD) ou euro (EUR), serão convertidos ao câmbio do dia do fechamento;\n\n\n",
-      "htmlDescription": "<p>Marina, tudo bem?</p><p><br></p><p>Combinado, fico no aguardo.</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">&nbsp;</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Atenciosamente,&nbsp;</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Milena Tomaz.</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><br><img alt=\"undefined\" class=\"fr-fic\" src=\"https://s3.amazonaws.com/movidesk-files/51A0B0E430B7E05629BA63B72B1FDEF0?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&amp;Expires=1772302007&amp;Signature=wf6y0Shep75fcuRc1MpUotqASlI%3D\" style=\"box-sizing: border-box; border: 0 none; vertical-align: bottom; cursor: pointer; padding: 0 1px; user-select: none; max-width: calc(100% - 10px); margin-left: 5px; margin-right: 5px; display: inline-block; float: none; min-width: 10px; color: rgba(65, 65, 65, 1); font-family: sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0; text-transform: none; widows: 2; word-spacing: 0; white-space: normal; background-color: rgba(255, 255, 255, 1); text-decoration-style: initial; text-decoration-color: initial; width: 831px\"></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">&nbsp;</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><strong>Regra importante: Tarifas sem bagagem (light), não permitem reembolso.<br>&nbsp;Tarifas com bagagem, permitem reembolso, mediante regra tarifária de cada cia. aérea.</strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><strong>Alterações são permitidas (exceto para bilhetes emitidos na classe PROMO), podendo haver cobrança de multa e diferença tarifária.&nbsp;</strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif; background: rgba(255, 255, 255, 1)\"><strong><em><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(255, 0, 0, 1)\">&nbsp;</span></em></strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif; background: rgba(255, 255, 255, 1)\"><strong><em><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(255, 0, 0, 1)\">Observação</span></em></strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif; background: rgba(255, 255, 255, 1)\"><em><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 0, 0, 1)\">- Nada reservado, apenas cotado;</span></em></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif; background: rgba(255, 255, 255, 1)\"><em><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 0, 0, 1)\">- Sujeito a disponibilidade mediante solicitação de reserva;</span></em></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif; background: rgba(255, 255, 255, 1)\"><em><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 0, 0, 1)\">- Valores sujeitos à alteração sem prévio aviso;</span></em></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif; background: rgba(255, 255, 255, 1)\"><em><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 0, 0, 1)\">- Os valores informados em dólar (USD) ou euro (EUR), serão convertidos ao câmbio do dia do fechamento;</span></em></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif; background: rgba(255, 255, 255, 1)\"><br></p><p>",
-      "status": "Novo/Atendimento",
-      "justification": null,
-      "createdDate": "2026-02-27T18:07:07.9211164",
-      "createdBy": {
-        "id": "546823535",
-        "personType": 1,
-        "profileType": 3,
-        "businessName": "Milena Tomaz",
-        "email": "milena@adturismo.com.br",
+        "businessName": "Viviane Coelho Moraes",
+        "email": "mariamariasubliart@gmail.com",
         "phone": null
       },
       "isDeleted": false,
       "timeAppointments": [],
       "attachments": [],
-      "expenses": [],
-      "tags": []
-    },
-    {
-      "id": 5,
-      "type": 2,
-      "origin": 2,
-      "description": "Boa tarde, Marina! Tudo bem?\n\nSegue orçamento atualizado. Lembrando que como não temos reserva, os valores não são garantidos, e podem flutuar a qualquer momento.\n\n- 1 passagem aérea de ida e volta, no trecho Goiás-São Paulo (chegada dia 19 de maio | partida 22 ou 23 de maio)\n\nIDA - Valor por pessoa\n\nVOLTA - Valor por pessoa - dia 22\n\nVOLTA - Valor por pessoa - dia 23\n\nFico à disposição para qualquer dúvida,\n\nAtenciosamente, \nMilena Tomaz.\n\n \nRegra importante: Tarifas sem bagagem (light), não permitem reembolso.\n Tarifas com bagagem, permitem reembolso, mediante regra tarifária de cada cia. aérea.\nAlterações são permitidas (exceto para bilhetes emitidos na classe PROMO), podendo haver cobrança de multa e diferença tarifária. \n \nObservação\n- Nada reservado, apenas cotado;\n- Sujeito a disponibilidade mediante solicitação de reserva;\n- Valores sujeitos à alteração sem prévio aviso;\n- Os valores informados em dólar (USD) ou euro (EUR), serão convertidos ao câmbio do dia do fechamento;\n\n",
-      "htmlDescription": "<div><p>Boa tarde, Marina! Tudo bem?</p><p><br></p><p>Segue orçamento atualizado. Lembrando que como não temos reserva, os valores não são garantidos, e podem flutuar a qualquer momento.</p><p><br></p><p>- 1 passagem aérea de ida e volta, no trecho Goiás-São Paulo (chegada dia 19 de maio | partida 22 ou 23 de maio)</p><p><br></p><p>IDA - Valor por pessoa</p><p><img src=\"https://s3.amazonaws.com/movidesk-files/291CF071C142703F5DC15DDEE41674F3?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&amp;Expires=1772574326&amp;Signature=HwpS4pf8Ln8Dua%2Brulo7HJc1pTg%3D\" class=\"fr-fic fr-fil fr-dib\"></p><p><br></p><p>VOLTA - Valor por pessoa - dia 22</p><p><img src=\"https://s3.amazonaws.com/movidesk-files/D65198062ADB4B6DE1F1A4FDC716DFC8?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&amp;Expires=1772574344&amp;Signature=Ud%2FBb0MWM6il%2FqZfzyiwrF9LHUM%3D\" class=\"fr-fic fr-fil fr-dib\"></p><p><br></p><p>VOLTA - Valor por pessoa - dia 23</p><p><img src=\"https://s3.amazonaws.com/movidesk-files/C09F36C2162F96CC30382151B65216D5?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&amp;Expires=1772574448&amp;Signature=rwwGDlroAggdwFPjmT8rKMbUT2k%3D\" class=\"fr-fic fr-fil fr-dib\"></p><p><br></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Fico à disposição para qualquer dúvida,</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><br></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Atenciosamente,&nbsp;</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">Milena Tomaz.</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><br><img alt=\"undefined\" class=\"fr-fic\" src=\"https://s3.amazonaws.com/movidesk-files/51A0B0E430B7E05629BA63B72B1FDEF0?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&amp;Expires=1772564016&amp;Signature=WYH8jdcHm1TJTcjMvh9%2B0GAS1EM%3D\" style=\"box-sizing: border-box; border: 0 none; vertical-align: bottom; cursor: pointer; padding: 0 1px; user-select: none; max-width: calc(100% - 10px); margin-left: 5px; margin-right: 5px; display: inline-block; float: none; min-width: 10px; color: rgba(65, 65, 65, 1); font-family: sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0; text-transform: none; widows: 2; word-spacing: 0; white-space: normal; background-color: rgba(255, 255, 255, 1); text-decoration-style: initial; text-decoration-color: initial; width: 831px\"></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\">&nbsp;</p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><strong>Regra importante: Tarifas sem bagagem (light), não permitem reembolso.<br>&nbsp;Tarifas com bagagem, permitem reembolso, mediante regra tarifária de cada cia. aérea.</strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><strong>Alterações são permitidas (exceto para bilhetes emitidos na classe PROMO), podendo haver cobrança de multa e diferença tarifária.&nbsp;</strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif; background: rgba(255, 255, 255, 1)\"><strong><em><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(255, 0, 0, 1)\">&nbsp;</span></em></strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif; background: rgba(255, 255, 255, 1)\"><strong><em><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(255, 0, 0, 1)\">Observação</span></em></strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif; background: rgba(255, 255, 255, 1)\"><em><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 0, 0, 1)\">- Nada reservado, apenas cotado;</span></em></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif; background: rgba(255, 255, 255, 1)\"><em><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 0, 0, 1)\">- Sujeito a disponibilidade mediante solicitação de reserva;</span></em></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif; background: rgba(255, 255, 255, 1)\"><em><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 0, 0, 1)\">- Valores sujeitos à alteração sem prévio aviso;</span></em></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif; background: rgba(255, 255, 255, 1)\"><em><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 0, 0, 1)\">- Os valores informados em dólar (USD) ou euro (EUR), serão convertidos ao câmbio do dia do fechamento;</span></em></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif; background: rgba(255, 255, 255, 1)\"><br></p></div>",
-      "status": "Em atendimento",
-      "justification": null,
-      "createdDate": "2026-03-02T21:47:53.9403978",
-      "createdBy": {
-        "id": "546823535",
-        "personType": 1,
-        "profileType": 3,
-        "businessName": "Milena Tomaz",
-        "email": "milena@adturismo.com.br",
-        "phone": null
-      },
-      "isDeleted": false,
-      "timeAppointments": [],
-      "attachments": [],
-      "expenses": [],
-      "tags": []
-    },
-    {
-      "id": 6,
-      "type": 2,
-      "origin": 3,
-      "description": "Milena, bom dia\r\nTudo bem?\r\n\r\nPode me passar os valores atualizados amanhã, pela manhã? Para ver se tem alguma alteração no valor.\r\nComo empresa, como consigo manter o valor que foi escolhido na data?\r\n\r\nAguardo retorno.\r\n\r\nObrigada.\r\n\r\nMarina Nunes\r\nMarketing\r\n[cid:image001.jpg@01DCAB2F.B9EC5C80]\r\nAv. Dra. Ruth Cardoso, 7.221 – 22º andar | São Paulo | Brasil\r\nwww.informamarkets.com.br<http://www.informamarkets.com.br/>\r\n\r\n\r\n\r\n\r\n\r\nInformation Classification: General\r\nDe: ADF - Hospitalar <hospitalar@adturismo.com.br>\r\nEnviada em: segunda-feira, 2 de março de 2026 18:48\r\nPara: Nunes, Marina <Marina.Nunes@informa.com>\r\nAssunto: 1062631 - ENC: Cotação Passagem Aérea\r\n\r\n\r\n",
-      "htmlDescription": "<div>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\">Milena, bom dia<o:p></o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\">Tudo bem?<o:p></o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\"><o:p>&nbsp;</o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\">Pode me passar os valores atualizados amanhã, pela manhã? Para ver se tem alguma alteração no valor.<o:p></o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\">Como empresa, como consigo manter o valor que foi escolhido na data?<o:p></o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\"><o:p>&nbsp;</o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\">Aguardo retorno.<o:p></o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\"><o:p>&nbsp;</o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\">Obrigada.<o:p></o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\"><o:p>&nbsp;</o:p></span></p>\n<p><b><span style=\"font-size: 10pt; font-family: &quot;Calibri&quot;, sans-serif; color: rgba(0, 34, 68, 1)\">Marina Nunes</span></b><span style=\"font-size: 10pt; font-family: &quot;Calibri&quot;, sans-serif; color: rgba(0, 34, 68, 1)\"><o:p></o:p></span></p>\n<p><span style=\"font-size: 10pt; font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 34, 68, 1)\">Marketing<o:p></o:p></span></p>\n<p><span style=\"font-family: &quot;Calibri&quot;, sans-serif\"><a href=\"https://s3.amazonaws.com/movidesk-files/0D989020E4772B3C7DD6675E4C5389BB?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&Expires=1772654683&Signature=t02KBzNlw%2BiyKL5IpuggOzD81M4%3D\" data-original-href=\"cid:image001.jpg@01DCAB2F.B9EC5C80\" target=\"_blank\" class=\"colorbox\"><img width=\"159\" height=\"80\" style=\"width: 1.6527in; height: 0.8333in\" src=\"https://s3.amazonaws.com/movidesk-files/0D989020E4772B3C7DD6675E4C5389BB?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&Expires=1772654683&Signature=t02KBzNlw%2BiyKL5IpuggOzD81M4%3D\" data-original-src=\"cid:image001.jpg@01DCAB2F.B9EC5C80\" data-hash=\"0D989020E4772B3C7DD6675E4C5389BB\"></a></span><span lang=\"EN-GB\" style=\"font-family: &quot;Calibri&quot;, sans-serif; color: rgba(0, 34, 68, 1)\"><o:p></o:p></span></p>\n<p style=\"margin-bottom: 4.15pt\"><span style=\"font-size: 9pt; font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(0, 34, 68, 1)\">Av. Dra. Ruth Cardoso, 7.221 – 22º andar | São Paulo | Brasil<o:p></o:p></span></p>\n<p><span style=\"font-size: 9pt; font-family: &quot;Calibri&quot;, sans-serif\"><a href=\"http://www.informamarkets.com.br/\"><span style=\"font-family: &quot;Calibri Light&quot;, sans-serif; color: rgba(5, 99, 193, 1)\">www.informamarkets.com.br</span></a></span><span style=\"font-size: 9pt; font-family: &quot;Calibri Light&quot;, sans-serif\">\n<u><span style=\"color: rgba(5, 99, 193, 1)\"><o:p></o:p></span></u></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\"><o:p>&nbsp;</o:p></span></p>\n<p><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\"><o:p>&nbsp;</o:p></span></p>\n<p><span><o:p>&nbsp;</o:p></span></p>\n<br>\n<p style=\"font-family: Rockwell; font-size: 9pt; color: rgba(0, 120, 215, 1); margin: 15pt; font-style: normal; font-weight: normal; text-decoration: none\" align=\"Left\">\nInformation Classification: General<br>\n</p>\n<div style=\"border-top: 1pt solid rgba(225, 225, 225, 1); border-right: none; border-bottom: none; border-left: none; padding: 3pt 0 0\">\n<p><b><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\">De:</span></b><span style=\"font-size: 11pt; font-family: &quot;Calibri&quot;, sans-serif\"> ADF - Hospitalar &lt;hospitalar@adturismo.com.br&gt;\n<br>\n<b>Enviada em:</b> segunda-feira, 2 de março de 2026 18:48<br>\n<b>Para:</b> Nunes, Marina &lt;Marina.Nunes@informa.com&gt;<br>\n<b>Assunto:</b> 1062631 - ENC: Cotação Passagem Aérea<o:p></o:p></span></p>\n</div>\n<p><o:p>&nbsp;</o:p></p>\n<p style=\"margin: 0\"><span style=\"font-size: 10pt; font-family: &quot;Verdana&quot;, sans-serif; color: rgba(181, 181, 181, 1)\"></span></p></div>",
-      "status": "Aguardando",
-      "justification": "Retorno do cliente",
-      "createdDate": "2026-03-03T20:04:42.7339286",
-      "createdBy": {
-        "id": "744738259",
-        "personType": 1,
-        "profileType": 2,
-        "businessName": "Marina Nunes",
-        "email": "Marina.Nunes@informa.com",
-        "phone": null
-      },
-      "isDeleted": false,
-      "timeAppointments": [],
-      "attachments": [
-        {
-          "fileName": "text.plain",
-          "path": "F71A1139D9D5058F81F07B7EA7709C2F",
-          "createdBy": {
-            "id": "744738259",
-            "personType": 1,
-            "profileType": 2,
-            "businessName": "Marina Nunes",
-            "email": "Marina.Nunes@informa.com",
-            "phone": null
-          },
-          "createdDate": "2026-03-03T20:04:43.7120825"
-        }
-      ],
       "expenses": [],
       "tags": []
     }
@@ -275,38 +175,82 @@
       "ownerTeam": null,
       "owner": null,
       "changedBy": {
-        "id": "1563084590",
+        "id": "5391303",
         "personType": 1,
         "profileType": 2,
-        "businessName": "Milena Tomaz",
-        "email": "Milena.tomaz@adturismo.com.br",
+        "businessName": "Viviane Coelho Moraes",
+        "email": "mariamariasubliart@gmail.com",
         "phone": null
       },
-      "changedDate": "2026-02-19T14:36:41.4785024",
-      "permanencyTimeFullTime": 1.6056500999999999,
-      "permanencyTimeWorkingTime": 1.6056500999999999
+      "changedDate": "2026-03-01T13:13:40.8557438",
+      "permanencyTimeFullTime": 1.6830604,
+      "permanencyTimeWorkingTime": 0
     },
     {
       "ownerTeam": "ADF - Informa",
       "owner": {
-        "id": "1609240838",
+        "id": "546823535",
         "personType": 1,
         "profileType": 3,
-        "businessName": "Flavia Thais Liberato",
-        "email": "flavia.liberato@adturismo.com.br",
+        "businessName": "Milena Tomaz",
+        "email": "milena@adturismo.com.br",
         "phone": null
       },
       "changedBy": {
-        "id": "1563084590",
+        "id": "5391303",
         "personType": 1,
         "profileType": 2,
-        "businessName": "Milena Tomaz",
-        "email": "Milena.tomaz@adturismo.com.br",
+        "businessName": "Viviane Coelho Moraes",
+        "email": "mariamariasubliart@gmail.com",
         "phone": null
       },
-      "changedDate": "2026-02-19T14:36:47.2238742",
-      "permanencyTimeFullTime": 23.4425056,
-      "permanencyTimeWorkingTime": 23.4425056
+      "changedDate": "2026-03-01T13:13:45.9563429",
+      "permanencyTimeFullTime": 90353.60768239999,
+      "permanencyTimeWorkingTime": 8379.5640253
+    },
+    {
+      "ownerTeam": "ADF - Brasil",
+      "owner": {
+        "id": "1735224942",
+        "personType": 1,
+        "profileType": 3,
+        "businessName": "Hadassa Santos",
+        "email": "hadassa.santos@adturismo.com.br",
+        "phone": null
+      },
+      "changedBy": {
+        "id": "546823535",
+        "personType": 1,
+        "profileType": 3,
+        "businessName": "Milena Tomaz",
+        "email": "milena@adturismo.com.br",
+        "phone": null
+      },
+      "changedDate": "2026-03-02T14:19:39.7046641",
+      "permanencyTimeFullTime": 11556.6281551,
+      "permanencyTimeWorkingTime": 11556.6281551
+    },
+    {
+      "ownerTeam": "ADF - Informa",
+      "owner": {
+        "id": "1735224942",
+        "personType": 1,
+        "profileType": 3,
+        "businessName": "Hadassa Santos",
+        "email": "hadassa.santos@adturismo.com.br",
+        "phone": null
+      },
+      "changedBy": {
+        "id": "1477429368",
+        "personType": 1,
+        "profileType": 3,
+        "businessName": "Nataly Moura",
+        "email": "nataly.moura@adturismo.com.br",
+        "phone": null
+      },
+      "changedDate": "2026-03-02T17:32:16.4734242",
+      "permanencyTimeFullTime": 78472.0796237,
+      "permanencyTimeWorkingTime": 26272.0796237
     },
     {
       "ownerTeam": "ADF - Informa",
@@ -326,9 +270,9 @@
         "email": "milena@adturismo.com.br",
         "phone": null
       },
-      "changedDate": "2026-02-19T14:37:10.822682",
-      "permanencyTimeFullTime": 703811.6815225,
-      "permanencyTimeWorkingTime": 217811.6815225
+      "changedDate": "2026-03-03T15:20:08.6011669",
+      "permanencyTimeFullTime": null,
+      "permanencyTimeWorkingTime": null
     }
   ],
   "statusHistories": [
@@ -336,16 +280,16 @@
       "status": "Novo",
       "justification": null,
       "changedBy": {
-        "id": "1563084590",
+        "id": "5391303",
         "personType": 1,
         "profileType": 2,
-        "businessName": "Milena Tomaz",
-        "email": "Milena.tomaz@adturismo.com.br",
+        "businessName": "Viviane Coelho Moraes",
+        "email": "mariamariasubliart@gmail.com",
         "phone": null
       },
-      "changedDate": "2026-02-19T14:36:41.4785024",
-      "permanencyTimeFullTime": 613.9885039,
-      "permanencyTimeWorkingTime": 613.9885039
+      "changedDate": "2026-03-01T13:13:40.8557438",
+      "permanencyTimeFullTime": 180387.6191217,
+      "permanencyTimeWorkingTime": 46208.4748655
     },
     {
       "status": "Em atendimento",
@@ -358,13 +302,13 @@
         "email": "milena@adturismo.com.br",
         "phone": null
       },
-      "changedDate": "2026-02-19T14:46:55.5607504",
-      "permanencyTimeFullTime": 72.2375594,
-      "permanencyTimeWorkingTime": 72.2375594
+      "changedDate": "2026-03-03T15:20:08.6011669",
+      "permanencyTimeFullTime": 16.1485821,
+      "permanencyTimeWorkingTime": 16.1485821
     },
     {
       "status": "Aguardando",
-      "justification": "Retorno do cliente",
+      "justification": "Retorno do participante",
       "changedBy": {
         "id": "546823535",
         "personType": 1,
@@ -373,97 +317,22 @@
         "email": "milena@adturismo.com.br",
         "phone": null
       },
-      "changedDate": "2026-02-19T14:48:08.0956468",
-      "permanencyTimeFullTime": 622113.5646333,
-      "permanencyTimeWorkingTime": 188313.5646333
+      "changedDate": "2026-03-03T15:20:24.9215448",
+      "permanencyTimeFullTime": 6316.904405599999,
+      "permanencyTimeWorkingTime": 6316.904405599999
     },
     {
       "status": "Novo/Atendimento",
       "justification": null,
       "changedBy": {
-        "id": "744738259",
+        "id": "5391303",
         "personType": 1,
         "profileType": 2,
-        "businessName": "Marina Nunes",
-        "email": "Marina.Nunes@informa.com",
+        "businessName": "Viviane Coelho Moraes",
+        "email": "mariamariasubliart@gmail.com",
         "phone": null
       },
-      "changedDate": "2026-02-26T19:36:42.1566529",
-      "permanencyTimeFullTime": 81026.7971079,
-      "permanencyTimeWorkingTime": 28826.797107899998
-    },
-    {
-      "status": "Aguardando",
-      "justification": "Retorno do cliente",
-      "changedBy": {
-        "id": "546823535",
-        "personType": 1,
-        "profileType": 3,
-        "businessName": "Milena Tomaz",
-        "email": "milena@adturismo.com.br",
-        "phone": null
-      },
-      "changedDate": "2026-02-27T18:07:09.1881515",
-      "permanencyTimeFullTime": 13.331691999999999,
-      "permanencyTimeWorkingTime": 13.331691999999999
-    },
-    {
-      "status": "Resolvido",
-      "justification": null,
-      "changedBy": {
-        "id": "546823535",
-        "personType": 1,
-        "profileType": 3,
-        "businessName": "Milena Tomaz",
-        "email": "milena@adturismo.com.br",
-        "phone": null
-      },
-      "changedDate": "2026-02-27T18:07:22.738574",
-      "permanencyTimeFullTime": 261999.7655292,
-      "permanencyTimeWorkingTime": 36999.7655292
-    },
-    {
-      "status": "Em atendimento",
-      "justification": null,
-      "changedBy": {
-        "id": "546823535",
-        "personType": 1,
-        "profileType": 3,
-        "businessName": "Milena Tomaz",
-        "email": "milena@adturismo.com.br",
-        "phone": null
-      },
-      "changedDate": "2026-03-02T18:54:02.6759739",
-      "permanencyTimeFullTime": 10432.264978399999,
-      "permanencyTimeWorkingTime": 9357.3240261
-    },
-    {
-      "status": "Aguardando",
-      "justification": "Retorno do cliente",
-      "changedBy": {
-        "id": "546823535",
-        "personType": 1,
-        "profileType": 3,
-        "businessName": "Milena Tomaz",
-        "email": "milena@adturismo.com.br",
-        "phone": null
-      },
-      "changedDate": "2026-03-02T21:47:55.1754001",
-      "permanencyTimeFullTime": 80208.0632207,
-      "permanencyTimeWorkingTime": 29083.2386208
-    },
-    {
-      "status": "Novo/Atendimento",
-      "justification": null,
-      "changedBy": {
-        "id": "744738259",
-        "personType": 1,
-        "profileType": 2,
-        "businessName": "Marina Nunes",
-        "email": "Marina.Nunes@informa.com",
-        "phone": null
-      },
-      "changedDate": "2026-03-03T20:04:43.7120825",
+      "changedDate": "2026-03-03T17:05:42.2214657",
       "permanencyTimeFullTime": null,
       "permanencyTimeWorkingTime": null
     }
@@ -480,7 +349,7 @@
           "personId": null,
           "clientId": null,
           "team": null,
-          "customFieldItem": "Hospitalar",
+          "customFieldItem": "FuturePrint",
           "storageFileGuid": "",
           "fileName": null
         }
@@ -496,7 +365,7 @@
           "personId": null,
           "clientId": null,
           "team": null,
-          "customFieldItem": "Promotora",
+          "customFieldItem": "Participante",
           "storageFileGuid": "",
           "fileName": null
         }
@@ -522,7 +391,7 @@
       "customFieldId": 234900,
       "customFieldRuleId": 123605,
       "line": 1,
-      "value": "SP",
+      "value": "ND",
       "items": []
     },
     {
@@ -535,7 +404,7 @@
           "personId": null,
           "clientId": null,
           "team": null,
-          "customFieldItem": "Saúde",
+          "customFieldItem": "Indústria",
           "storageFileGuid": "",
           "fileName": null
         }
