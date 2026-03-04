@@ -14,7 +14,7 @@ async function extrairTicketBruto() {
 
         console.log("Conectando ao Movidesk para buscar 1 ticket de exemplo...");
 
-        const ticketId = '1050636';
+        const ticketId = '1062631';
         console.log(`Buscando ticket específico: #${ticketId}`);
         console.log("Baixando todas as informações brutas (raio-x) deste ticket...");
 

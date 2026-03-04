@@ -4,31 +4,20 @@ const axios = require('axios');
 const MOVIDESK_TOKEN = process.env.MOVIDESK_TOKEN;
 const BASE_URL = 'https://api.movidesk.com/public/v1/tickets';
 
-async function testSingleTicket() {
+async function testFilter() {
     try {
-        console.log("Buscando ticket 1049525 na API...");
+        console.log("Testando filtro OData startswith AD FEIRAS");
         const response = await axios.get(BASE_URL, {
             params: {
                 token: MOVIDESK_TOKEN,
-                id: 1049525,
-                $expand: 'owner,actions,customFieldValues'
+                $filter: "customFieldValues/any(c: c/customFieldId eq 208535 and c/items/any(i: startswith(i/customFieldItem, 'AD FEIRAS')))",
+                $select: 'id',
+                $top: 5
             }
         });
-        
-        const ticket = response.data;
-        console.log(`Ticket ID: ${ticket.id}`);
-        console.log(`Actions count: ${ticket.actions ? ticket.actions.length : 'N/A'}`);
-        
-        if (ticket.actions && ticket.actions.length > 0) {
-            console.log("\nPrimeira action:");
-            console.log(JSON.stringify(ticket.actions[0], null, 2));
-        } else {
-             console.log("\n❌ O ticket não trouxe nenhuma action no campo 'actions'");
-        }
-        
+        console.log(`Sucesso, tickets retornados: ${response.data.length}`);
     } catch (e) {
-        console.error("Erro na request:", e.message);
+        console.error("Erro no OData filter:", e.response ? e.response.data : e.message);
     }
 }
-
-testSingleTicket();
+testFilter();

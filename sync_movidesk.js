@@ -42,7 +42,7 @@ async function syncTickets() {
             const response = await axios.get(BASE_URL, {
                 params: {
                     token: MOVIDESK_TOKEN,
-                    $filter: `ownerTeam eq 'ADF - Informa'`, 
+                    $filter: "customFieldValues/any(c: c/customFieldId eq 208535 and c/items/any(i: startswith(i/customFieldItem, 'AD FEIRAS - INFORMA')))", 
                     $select: 'id', // Trazemos apenas o ID para a listagem para economizar banda
                     $top: top,
                     $skip: skip
@@ -202,6 +202,16 @@ async function syncTickets() {
                         action.status || null,
                         action.justification || null
                     ]);
+                }
+            }
+
+            // 2.5 Sincronizar Tags do Ticket
+            if (ticket.tags && ticket.tags.length > 0) {
+                for (const tag of ticket.tags) {
+                    await connection.execute(`
+                        INSERT IGNORE INTO movidesk_ticket_tags (ticket_id, tag)
+                        VALUES (?, ?)
+                    `, [ticket.id, tag]);
                 }
             }
         }
