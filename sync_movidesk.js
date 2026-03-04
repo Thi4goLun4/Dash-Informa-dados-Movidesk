@@ -22,6 +22,9 @@ const formatDate = (dateStr) => {
     return new Date(dateStr).toISOString().slice(0, 19).replace('T', ' ');
 };
 
+// Função auxiliar para aguardar (timeout/delay)
+const delay = ms => new Promise(res => setTimeout(res, ms));
+
 async function syncTickets() {
     let connection;
     try {
@@ -66,20 +69,31 @@ async function syncTickets() {
         for (const ticketId of allTickets) {
             
             // Buscar os detalhes completos de CADA ticket (Isso garante que todas as 'actions' venham)
-            let ticket;
-            try {
-                const detailResponse = await axios.get(BASE_URL, {
-                    params: { 
-                        token: MOVIDESK_TOKEN, 
-                        id: ticketId,
-                        $expand: 'owner,actions,customFieldValues'
+            // Com retentativa para contornar lentidões/erros 504 do Movidesk
+            let ticket = null;
+            let retries = 3;
+            for(let i=0; i<retries; i++) {
+                try {
+                    const detailResponse = await axios.get(BASE_URL, {
+                        params: { 
+                            token: MOVIDESK_TOKEN, 
+                            id: ticketId,
+                            $expand: 'owner,actions,customFieldValues'
+                        }
+                    });
+                    ticket = detailResponse.data;
+                    break; // Sucesso
+                } catch (err) {
+                    if (i === retries - 1) {
+                        console.error(`⚠️ Falha defintiva ao buscar ticket ${ticketId} após ${retries} tentativas: ${err.message}`);
+                    } else {
+                        console.log(`⏳ Servidor Movidesk oscilou no ticket ${ticketId} (Erro ${err.response?.status || err.message}). Tentando novamente em 3 segundos...`);
+                        await delay(3000);
                     }
-                });
-                ticket = detailResponse.data;
-            } catch (err) {
-                console.error(`⚠️ Erro ao buscar detalhes do ticket ${ticketId}: ${err.message}`);
-                continue; // Pula para o próximo se der erro
+                }
             }
+
+            if(!ticket) continue; // Pula para o próximo se todas as tentativas falharem
 
             processedCount++;
             if (processedCount % 50 === 0) {
