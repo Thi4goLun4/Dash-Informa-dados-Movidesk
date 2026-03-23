@@ -16,6 +16,7 @@ Com base no ticket de exemplo `1050636`, os campos personalizados foram identifi
 | **208535** | Unidade | Unidade de negócio responsável (ex: AD FEIRAS - INFORMA). |
 | **234900** | País/Estado | Localização geográfica do solicitante (ex: COLOMBIA). |
 | **237387** | Núcleo | Segmento ou núcleo de mercado (ex: Agro). |
+| **238336** | Empresa | Organização / Empresa do contato. |
 
 ---
 
@@ -91,7 +92,8 @@ INSERT INTO movidesk_custom_field_definitions (id, name) VALUES
 (206220, 'Tipo de Atendimento AD Feiras'),
 (208535, 'Unidade'),
 (234900, 'País/Estado'),
-(237387, 'Núcleo');
+(237387, 'Núcleo'),
+(238336, 'Empresa');
 ```
 
 ---

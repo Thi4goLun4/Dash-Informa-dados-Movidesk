@@ -159,7 +159,7 @@ async function syncTickets() {
             // 2.3 Sincronizar Valores de Campos Personalizados
             if (ticket.customFieldValues && ticket.customFieldValues.length > 0) {
                 // Códigos dos campos levantados no plano de implementação
-                const allowedFields = [205913, 206220, 208535, 234900, 237387];
+                const allowedFields = [205913, 206220, 208535, 234900, 237387, 238336];
                 
                 for (const cfv of ticket.customFieldValues) {
                     if (allowedFields.includes(cfv.customFieldId)) {
