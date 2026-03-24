@@ -2,7 +2,7 @@ const axios = require('axios');
 const fs = require('fs');
 
 const MOVIDESK_TOKEN = "f5bcf831-0b34-4676-96cf-38b254f3f6a4";
-const TICKET_ID = "1087243";
+const TICKET_ID = "1091760";
 const URL = `https://api.movidesk.com/public/v1/tickets?token=${MOVIDESK_TOKEN}&id=${TICKET_ID}`;
 
 async function fetchTicket() {

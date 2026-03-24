@@ -45,7 +45,7 @@ async function syncTickets() {
             const response = await axios.get(BASE_URL, {
                 params: {
                     token: MOVIDESK_TOKEN,
-                    $filter: "customFieldValues/any(c: c/customFieldId eq 208535 and c/items/any(i: startswith(i/customFieldItem, 'AD FEIRAS - INFORMA')))", 
+                    $filter: "createdDate ge 2025-10-01T00:00:00.000Z and customFieldValues/any(c: c/customFieldId eq 208535 and c/items/any(i: startswith(i/customFieldItem, 'AD FEIRAS - INFORMA'))) and customFieldValues/any(c: c/customFieldId eq 206220 and c/items/any(i: i/customFieldItem eq 'Participante' or i/customFieldItem eq 'Expositor'))", 
                     $select: 'id', // Trazemos apenas o ID para a listagem para economizar banda
                     $top: top,
                     $skip: skip
@@ -118,21 +118,59 @@ async function syncTickets() {
                 `, [ticket.owner.id, ticket.owner.personType, ticket.owner.profileType, bName, email, phone]);
             }
 
+            // 2.1.1 Sincronizar Clientes do Ticket (Para pegar o campo "reference")
+            if (ticket.clients && ticket.clients.length > 0) {
+                for (const client of ticket.clients) {
+                    if (!client.id) continue;
+                    const bName = client.businessName || client.name || null;
+                    const email = client.email || null;
+                    const phone = client.phone || null;
+                    const reference = client.reference || null;
+
+                    await connection.execute(`
+                        INSERT INTO movidesk_people (id, person_type, profile_type, business_name, email, phone, reference)
+                        VALUES (?, ?, ?, ?, ?, ?, ?)
+                        ON DUPLICATE KEY UPDATE
+                            person_type = VALUES(person_type),
+                            profile_type = VALUES(profile_type),
+                            business_name = VALUES(business_name),
+                            email = VALUES(email),
+                            phone = VALUES(phone),
+                            reference = VALUES(reference)
+                    `, [client.id, client.personType, client.profileType, bName, email, phone, reference]);
+                }
+            }
+
+            // 2.1.2 Sincronizar Criador do Ticket (Cliente Principal)
+            const createdByTicketId = ticket.createdBy ? ticket.createdBy.id : null;
+            if (ticket.createdBy && createdByTicketId) {
+                const bName = ticket.createdBy.businessName || ticket.createdBy.name || null;
+                const email = ticket.createdBy.email || null;
+                const phone = ticket.createdBy.phone || null;
+
+                await connection.execute(`
+                    INSERT INTO movidesk_people (id, person_type, profile_type, business_name, email, phone)
+                    VALUES (?, ?, ?, ?, ?, ?)
+                    ON DUPLICATE KEY UPDATE business_name = VALUES(business_name)
+                `, [createdByTicketId, ticket.createdBy.personType, ticket.createdBy.profileType, bName, email, phone]);
+            }
+
             const ownerId = ticket.owner ? ticket.owner.id : null;
 
             // 2.2 Sincronizar o Ticket
             await connection.execute(`
                 INSERT INTO movidesk_tickets (
-                    id, subject, category, status, base_status, owner_id,
+                    id, subject, category, status, base_status, owner_id, created_by_id,
                     service_first_level, service_second_level, service_third_level,
                     created_date, resolved_in, action_count, life_time_working_time
-                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 ON DUPLICATE KEY UPDATE
                     subject = VALUES(subject),
                     category = VALUES(category),
                     status = VALUES(status),
                     base_status = VALUES(base_status),
                     owner_id = VALUES(owner_id),
+                    created_by_id = VALUES(created_by_id),
                     service_first_level = VALUES(service_first_level),
                     service_second_level = VALUES(service_second_level),
                     service_third_level = VALUES(service_third_level),
@@ -147,6 +185,7 @@ async function syncTickets() {
                 ticket.status || null,
                 ticket.baseStatus || null,
                 ownerId,
+                createdByTicketId,
                 ticket.serviceFirstLevel || null,
                 ticket.serviceSecondLevel || null,
                 ticket.serviceThirdLevel || null,
