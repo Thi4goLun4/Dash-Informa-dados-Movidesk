@@ -1,0 +1,9 @@
+# Arquivos Secretos
+.env
+.env.*
+
+# Pastas de IDE e Compilação
+target/
+.idea/
+.vscode/
+*.iml
