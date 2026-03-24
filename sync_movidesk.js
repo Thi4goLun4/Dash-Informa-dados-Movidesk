@@ -118,26 +118,27 @@ async function syncTickets() {
                 `, [ticket.owner.id, ticket.owner.personType, ticket.owner.profileType, bName, email, phone]);
             }
 
-            // 2.1.1 Sincronizar Clientes do Ticket (Para pegar o campo "reference")
+            // 2.1.1 Sincronizar Clientes do Ticket e Reter Campo Reference para a Tabela do Ticket
+            let mainClientReference = null;
             if (ticket.clients && ticket.clients.length > 0) {
+                mainClientReference = ticket.clients[0].reference || null;
+
                 for (const client of ticket.clients) {
                     if (!client.id) continue;
                     const bName = client.businessName || client.name || null;
                     const email = client.email || null;
                     const phone = client.phone || null;
-                    const reference = client.reference || null;
 
                     await connection.execute(`
-                        INSERT INTO movidesk_people (id, person_type, profile_type, business_name, email, phone, reference)
-                        VALUES (?, ?, ?, ?, ?, ?, ?)
+                        INSERT INTO movidesk_people (id, person_type, profile_type, business_name, email, phone)
+                        VALUES (?, ?, ?, ?, ?, ?)
                         ON DUPLICATE KEY UPDATE
                             person_type = VALUES(person_type),
                             profile_type = VALUES(profile_type),
                             business_name = VALUES(business_name),
                             email = VALUES(email),
-                            phone = VALUES(phone),
-                            reference = VALUES(reference)
-                    `, [client.id, client.personType, client.profileType, bName, email, phone, reference]);
+                            phone = VALUES(phone)
+                    `, [client.id, client.personType, client.profileType, bName, email, phone]);
                 }
             }
 
@@ -160,10 +161,10 @@ async function syncTickets() {
             // 2.2 Sincronizar o Ticket
             await connection.execute(`
                 INSERT INTO movidesk_tickets (
-                    id, subject, category, status, base_status, owner_id, created_by_id,
+                    id, subject, category, status, base_status, owner_id, created_by_id, client_reference,
                     service_first_level, service_second_level, service_third_level,
                     created_date, resolved_in, action_count, life_time_working_time
-                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 ON DUPLICATE KEY UPDATE
                     subject = VALUES(subject),
                     category = VALUES(category),
@@ -171,6 +172,7 @@ async function syncTickets() {
                     base_status = VALUES(base_status),
                     owner_id = VALUES(owner_id),
                     created_by_id = VALUES(created_by_id),
+                    client_reference = VALUES(client_reference),
                     service_first_level = VALUES(service_first_level),
                     service_second_level = VALUES(service_second_level),
                     service_third_level = VALUES(service_third_level),
@@ -186,6 +188,7 @@ async function syncTickets() {
                 ticket.baseStatus || null,
                 ownerId,
                 createdByTicketId,
+                mainClientReference,
                 ticket.serviceFirstLevel || null,
                 ticket.serviceSecondLevel || null,
                 ticket.serviceThirdLevel || null,
