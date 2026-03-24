@@ -39,6 +39,29 @@ public class MovideskSyncService {
     // Filtro OData igual ao JS (Somente Tickets "AD FEIRAS - INFORMA")
     private final String FILTER = "customFieldValues/any(c: c/customFieldId eq 208535 and c/items/any(i: startswith(i/customFieldItem, 'AD FEIRAS - INFORMA')))";
 
+    public void syncSingleTicket(Integer ticketId) {
+        log.info("▶️ [MODO TESTE] Buscando APENAS o Ticket ID: {}", ticketId);
+        MovideskResponseDTO loadedTicket = null;
+        try {
+            loadedTicket = restClient.get()
+                    .uri(baseUrl + "?token={token}&id={id}&$expand=owner,actions,customFieldValues",
+                            token, ticketId)
+                    .retrieve()
+                    .body(MovideskResponseDTO.class);
+        } catch (Exception e) {
+            log.error("❌ Falha na comunicação com a API do Movidesk para o Ticket {}: {}", ticketId, e.getMessage());
+        }
+
+        if (loadedTicket != null) {
+            try {
+                processAndSaveTicket(loadedTicket);
+                log.info("🎉 Sucesso Absoluto! O Ticket {} e todas as suas ações foram salvas no MySQL do seu Workbench/DBeaver!", ticketId);
+            } catch(Exception e) {
+                log.error("❌ O Ticket foi baixado, mas houve um erro interno do Banco de Dados ao salvar o Ticket {}: {}", ticketId, e.getMessage());
+            }
+        }
+    }
+
     public void syncAllTickets() {
         log.info("▶️ Iniciando Sincronização do Movidesk no Spring Boot...");
 
