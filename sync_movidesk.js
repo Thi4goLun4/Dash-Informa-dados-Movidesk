@@ -120,8 +120,12 @@ async function syncTickets() {
 
             // 2.1.1 Sincronizar Clientes do Ticket e Reter Campo Reference para a Tabela do Ticket
             let mainClientReference = null;
+            let organizationBusinessName = null;
             if (ticket.clients && ticket.clients.length > 0) {
                 mainClientReference = ticket.clients[0].reference || null;
+                if (ticket.clients[0].organization) {
+                    organizationBusinessName = ticket.clients[0].organization.businessName || null;
+                }
 
                 for (const client of ticket.clients) {
                     if (!client.id) continue;
@@ -162,9 +166,10 @@ async function syncTickets() {
             await connection.execute(`
                 INSERT INTO movidesk_tickets (
                     id, subject, category, status, base_status, owner_id, created_by_id, client_reference,
+                    organization_business_name,
                     service_first_level, service_second_level, service_third_level,
                     created_date, resolved_in, action_count, life_time_working_time
-                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 ON DUPLICATE KEY UPDATE
                     subject = VALUES(subject),
                     category = VALUES(category),
@@ -173,6 +178,7 @@ async function syncTickets() {
                     owner_id = VALUES(owner_id),
                     created_by_id = VALUES(created_by_id),
                     client_reference = VALUES(client_reference),
+                    organization_business_name = VALUES(organization_business_name),
                     service_first_level = VALUES(service_first_level),
                     service_second_level = VALUES(service_second_level),
                     service_third_level = VALUES(service_third_level),
@@ -189,6 +195,7 @@ async function syncTickets() {
                 ownerId,
                 createdByTicketId,
                 mainClientReference,
+                organizationBusinessName,
                 ticket.serviceFirstLevel || null,
                 ticket.serviceSecondLevel || null,
                 ticket.serviceThirdLevel || null,

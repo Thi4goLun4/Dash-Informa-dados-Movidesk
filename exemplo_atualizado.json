@@ -1,5 +1,5 @@
 {
-  "id": "1091760",
+  "id": "1093347",
   "protocol": null,
   "type": 2,
   "subject": "Re: FORMÓBILE - VIAGEM E HOSPEDAGEM",
@@ -9,24 +9,24 @@
   "baseStatus": "Stopped",
   "justification": "Retorno do participante",
   "origin": 3,
-  "createdDate": "2026-03-23T12:17:41.5357647",
+  "createdDate": "2026-03-24T15:20:41.5454969",
   "isDeleted": false,
   "originEmailAccount": "ADF - Formobile",
   "owner": {
-    "id": "337807466",
+    "id": "306619666",
     "personType": 1,
     "profileType": 3,
-    "businessName": "Daniela Rocha",
-    "email": "daniela.rocha@adturismo.com.br",
+    "businessName": "Tatiana Redondo",
+    "email": "tatiana.redondo@adturismo.com.br",
     "phone": null
   },
   "ownerTeam": "ADF - Informa",
   "createdBy": {
-    "id": "0659d248-3b6f-4c82-",
+    "id": "7705ac26-da3d-4de8-",
     "personType": 1,
     "profileType": 2,
-    "businessName": "Moveis Planejados - Leads",
-    "email": "franciscocleiton22@hotmail.com",
+    "businessName": "Gean Aguiar - Leads",
+    "email": "gean@agetijolos.com.br",
     "phone": null
   },
   "serviceFull": [
@@ -39,7 +39,9 @@
   "serviceSecondLevel": "Atendimento",
   "serviceThirdLevel": "AD Feiras",
   "contactForm": null,
-  "tags": [],
+  "tags": [
+    "Alerta 24hrs"
+  ],
   "cc": null,
   "resolvedIn": null,
   "closedIn": null,
@@ -60,11 +62,11 @@
   "slaResponseTime": 360,
   "slaSolutionChangedByUser": false,
   "slaSolutionChangedBy": {
-    "id": "0659d248-3b6f-4c82-",
+    "id": "7705ac26-da3d-4de8-",
     "personType": 1,
     "profileType": 2,
-    "businessName": "Moveis Planejados - Leads",
-    "email": "franciscocleiton22@hotmail.com",
+    "businessName": "Gean Aguiar - Leads",
+    "email": "gean@agetijolos.com.br",
     "phone": null
   },
   "slaSolutionDate": null,
@@ -74,27 +76,34 @@
   "movideskTicketNumber": null,
   "linkedToIntegratedTicketNumber": null,
   "reopenedIn": null,
-  "lastActionDate": "2026-03-23T18:39:27.7294767",
-  "lastUpdate": "2026-03-23T18:39:28.6225154",
-  "slaResponseDate": "2026-03-23T18:17:41.5357647",
-  "slaRealResponseDate": "2026-03-23T18:39:27.7294767",
+  "lastActionDate": "2026-03-24T17:43:43.1385707",
+  "lastUpdate": "2026-03-25T17:52:47.9204509",
+  "slaResponseDate": "2026-03-24T21:20:41.5454969",
+  "slaRealResponseDate": "2026-03-24T17:43:43.1385707",
   "clients": [
     {
-      "id": "0659d248-3b6f-4c82-",
+      "id": "7705ac26-da3d-4de8-",
       "personType": 1,
       "profileType": 2,
-      "businessName": "Moveis Planejados - Leads",
-      "email": "franciscocleiton22@hotmail.com",
+      "businessName": "Gean Aguiar - Leads",
+      "email": "gean@agetijolos.com.br",
       "phone": null,
       "isDeleted": false,
-      "organization": null,
+      "organization": {
+        "id": "695507505",
+        "personType": 2,
+        "profileType": 2,
+        "businessName": "Leads",
+        "email": null,
+        "phone": null
+      },
       "address": null,
       "complement": null,
       "cep": null,
       "city": null,
       "bairro": null,
       "number": null,
-      "reference": "Leads"
+      "reference": null
     }
   ],
   "actions": [
@@ -102,36 +111,22 @@
       "id": 1,
       "type": 2,
       "origin": 3,
-      "description": "Bom dia\r\n\r\nObter o Outlook para iOS<https://aka.ms/o0ukef>\r\n________________________________\r\nDe: FORMOBILE <formobile@adturismo.com.br>\r\nEnviado: Monday, March 23, 2026 9:05:44 AM\r\nAssunto: FORMÓBILE - VIAGEM E HOSPEDAGEM\r\n\r\n\r\nOlá!\r\n\r\n\r\n\r\nSou a Bárbara e faço parte equipe de atendimento da AD Turismo, agência oficial da FORMÓBILE. ✈️🏨\r\n\r\n\r\n\r\nRecebi a informação do seu interesse em vir para Feira e organizar a viagem através da nossa empresa. Para elaborarmos uma proposta sob medida, peço a gentileza de me enviar as informações abaixo:\r\n\r\n\r\n\r\n👤 Nome completo:\r\n\r\n🏢 Nome da Empresa:\r\n\r\n📅 Datas de hospedagem:\r\n\r\n👥 Número de hóspedes:\r\n\r\n🛏️ Qtde. e Tipo dos quartos (Individual, Duplo com 1 ou 2 camas, etc.):\r\n\r\n✈️ Precisa de aéreo? ( ) Sim ( ) Não\r\n\r\n🛫 Aeroporto de origem:\r\n\r\n🚌 Transporte:\r\n\r\n💡 Alguma observação, preferência ou necessidade especial (hotel específico? Localização? Quantas estrelas? Valores? Companhia aérea, etc)\r\n\r\n\r\n\r\nAssim que enviar as informações eu ou algum dos meus colegas iremos preparar todas as informações e enviar para sua análise.\r\n\r\n\r\n\r\nCaso prefira seguir de maneira autônoma, segue nosso canal direto de hospedagem através do site https://1.adfeiras.com.br/formobile2026.\r\n\r\n\r\n\r\nPermanecemos à disposição para qualquer necessidade,\r\n\r\n\r\n\r\nMuito obrigada\r\n\r\n\r\n\r\n[cid:image001.png@01DCB899.7EB1C980]\r\n",
-      "htmlDescription": "<div style=\"font-family: Aptos, -apple-system, HelveticaNeue, sans-serif; font-size: 12pt\">\n<div style=\"font-family: Aptos, Aptos_MSFontService, -apple-system, Roboto, Arial, Helvetica, sans-serif; font-size: 12pt; color: rgba(0, 0, 0, 1)\" dir=\"ltr\">\nBom dia</div>\n</div>\n<div style=\"font-family: Aptos, -apple-system, HelveticaNeue, sans-serif; font-size: 12pt\" dir=\"auto\">\n<br>\n</div>\n<div style=\"font-family: Aptos, -apple-system, HelveticaNeue, sans-serif; font-size: 12pt\">\nObter o <a href=\"https://aka.ms/o0ukef\">Outlook para iOS</a></div>\n<hr style=\"display: inline-block; width: 98%\" tabindex=\"-1\">\n<div dir=\"ltr\"><font style=\"font-size: 11pt\" color=\"#000000\"><b>De:</b> FORMOBILE &lt;formobile@adturismo.com.br&gt;<br>\n<b>Enviado:</b> Monday, March 23, 2026 9:05:44 AM<br>\n<b>Assunto:</b> FORMÓBILE - VIAGEM E HOSPEDAGEM</font>\n<div>&nbsp;</div>\n</div>\n\n&lt;!--\n@font-face\n\t{font-family:\"Cambria Math\"}\n@font-face\n\t{font-family:Aptos}\n@font-face\n\t{font-family:\"Segoe UI Emoji\"}\np.x_MsoNormal, li.x_MsoNormal, div.x_MsoNormal\n\t{margin-top:0cm;\n\tmargin-right:0cm;\n\tmargin-bottom:8.0pt;\n\tmargin-left:0cm;\n\tline-height:105%;\n\tfont-size:11.0pt;\n\tfont-family:\"Aptos\",sans-serif}\na:link, span.x_MsoHyperlink\n\t{color:#467886;\n\ttext-decoration:underline}\np.x_MsoNoSpacing, li.x_MsoNoSpacing, div.x_MsoNoSpacing\n\t{margin:0cm;\n\tfont-size:11.0pt;\n\tfont-family:\"Aptos\",sans-serif}\nspan.x_EstiloDeEmail19\n\t{font-family:\"Aptos\",sans-serif;\n\tcolor:windowtext}\n.x_MsoChpDefault\n\t{font-size:11.0pt}\n@page WordSection1\n\t{margin:70.85pt 3.0cm 70.85pt 3.0cm}\ndiv.x_WordSection1\n\t{}\n--&gt;\n\n<div lang=\"PT-BR\" style=\"word-wrap: break-word\">\n<div>\n<p>Olá! </p>\n<p>&nbsp;</p>\n<p>Sou a Bárbara e faço parte equipe de atendimento da <b>\nAD Turismo</b>, agência oficial da <b>FORMÓBILE</b>. <span style=\"font-family: &quot;Segoe UI Emoji&quot;, sans-serif\">\n✈️🏨</span></p>\n<p>&nbsp;</p>\n<p>Recebi a informação do seu interesse em vir para Feira e organizar a viagem através da nossa empresa. Para elaborarmos uma proposta sob medida, peço a gentileza de me enviar as informações abaixo:</p>\n<p><span style=\"font-family: &quot;Segoe UI Emoji&quot;, sans-serif\">&nbsp;</span></p>\n<p><span style=\"font-family: &quot;Segoe UI Emoji&quot;, sans-serif\">👤</span> Nome completo:</p>\n<p><span style=\"font-family: &quot;Segoe UI Emoji&quot;, sans-serif\">🏢</span> Nome da Empresa:</p>\n<p><span style=\"font-family: &quot;Segoe UI Emoji&quot;, sans-serif\">📅</span> Datas de hospedagem:</p>\n<p><span style=\"font-family: &quot;Segoe UI Emoji&quot;, sans-serif\">👥</span> Número de hóspedes:</p>\n<p><span style=\"font-family: &quot;Segoe UI Emoji&quot;, sans-serif\">🛏️</span> Qtde. e Tipo dos quartos (Individual, Duplo com 1 ou 2 camas, etc.):&nbsp;</p>\n<p><span style=\"font-family: &quot;Segoe UI Emoji&quot;, sans-serif\">✈️</span> Precisa de aéreo? ( ) Sim ( ) Não</p>\n<p><span style=\"font-family: &quot;Segoe UI Emoji&quot;, sans-serif\">🛫</span> Aeroporto de origem:</p>\n<p><span style=\"font-family: &quot;Segoe UI Emoji&quot;, sans-serif\">🚌</span> Transporte:</p>\n<p><span style=\"font-family: &quot;Segoe UI Emoji&quot;, sans-serif\">💡</span> Alguma observação, preferência ou necessidade especial (hotel específico? Localização? Quantas estrelas? Valores? Companhia aérea, etc)&nbsp;</p>\n<p>&nbsp;</p>\n<p>Assim que enviar as informações eu ou algum dos meus colegas iremos preparar todas as informações e enviar para sua análise.</p>\n<p>&nbsp;</p>\n<p>Caso prefira seguir de maneira autônoma, segue nosso canal direto de hospedagem através do site\n<a href=\"https://1.adfeiras.com.br/formobile2026\">https://1.adfeiras.com.br/formobile2026</a>.\n</p>\n<p>&nbsp;</p>\n<p>Permanecemos à disposição para qualquer necessidade,</p>\n<p>&nbsp;</p>\n<p>Muito obrigada</p>\n<p>&nbsp;</p>\n<p><span style=\"\"><a href=\"https://s3.amazonaws.com/movidesk-files/530B49CFC2B0AB2CDC574133A20F52C2?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&Expires=1774354661&Signature=U7XdPYRLGgy6dqQYlh4dIoHLLM4%3D\" data-original-href=\"cid:image001.png@01DCB899.7EB1C980\" target=\"_blank\" class=\"colorbox\"><img border=\"0\" width=\"523\" height=\"173\" src=\"https://s3.amazonaws.com/movidesk-files/530B49CFC2B0AB2CDC574133A20F52C2?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&Expires=1774354661&Signature=U7XdPYRLGgy6dqQYlh4dIoHLLM4%3D\" style=\"width: 5.4513in; height: 1.8055in\" data-original-src=\"cid:image001.png@01DCB899.7EB1C980\" data-hash=\"530B49CFC2B0AB2CDC574133A20F52C2\"></a></span></p>\n</div>\n</div>\n",
+      "description": "\r\n👤 Nome completo: Gean Aguiar \r\n🏢 Nome da Empresa: Rara Marcenaria \r\n📅 Datas de hospedagem: 02/07\r\n👥 Número de hóspedes: 03\r\n🛏️ Qtde. e Tipo dos quartos (Individual, Duplo com 1 ou 2 camas, etc.):  quarto triplo ou 01 duplo e 01 individual \r\n✈️ Precisa de aéreo? (X ) Sim ( ) Não\r\n🛫 Aeroporto de origem: Confins Belo Horizonte \r\n🚌 Transporte: não \r\nHotel Econômico com café da manhã próximo a feira \r\n\r\nEnviado do meu iPhone\r\n\r\n> Em 23 de mar. de 2026, à(s) 08:02, FORMOBILE <formobile@adturismo.com.br> escreveu:\r\n> \r\n> 👤 Nome completo:\r\n> \r\n> 🏢 Nome da Empresa:\r\n> \r\n> 📅 Datas de hospedagem:\r\n> \r\n> 👥 Número de hóspedes:\r\n> \r\n> 🛏️ Qtde. e Tipo dos quartos (Individual, Duplo com 1 ou 2 camas, etc.): \r\n> \r\n> ✈️ Precisa de aéreo? ( ) Sim ( ) Não\r\n> \r\n> 🛫 Aeroporto de origem:\r\n> \r\n> 🚌 Transporte:\r\n",
+      "htmlDescription": "<div><br></div><p style=\"margin: 0; font-size: 11pt; font-family: Aptos, sans-serif\"><span style=\"font-family: &quot;Segoe UI Emoji&quot;, sans-serif\">👤</span>&nbsp;Nome completo: Gean Aguiar&nbsp;<o:p></o:p></p><p style=\"margin: 0; font-size: 11pt; font-family: Aptos, sans-serif\"><span style=\"font-family: &quot;Segoe UI Emoji&quot;, sans-serif\">🏢</span>&nbsp;Nome da Empresa: Rara Marcenaria&nbsp;<o:p></o:p></p><p style=\"margin: 0; font-size: 11pt; font-family: Aptos, sans-serif\"><span style=\"font-family: &quot;Segoe UI Emoji&quot;, sans-serif\">📅</span>&nbsp;Datas de hospedagem: 02/07<o:p></o:p></p><p style=\"margin: 0; font-size: 11pt; font-family: Aptos, sans-serif\"><span style=\"font-family: &quot;Segoe UI Emoji&quot;, sans-serif\">👥</span>&nbsp;Número de hóspedes: 03<o:p></o:p></p><p style=\"margin: 0; font-size: 11pt; font-family: Aptos, sans-serif\"><span style=\"font-family: &quot;Segoe UI Emoji&quot;, sans-serif\">🛏️</span>&nbsp;Qtde. e Tipo dos quartos (Individual, Duplo com 1 ou 2 camas, etc.): &nbsp;quarto triplo ou 01 duplo e 01 individual&nbsp;<o:p></o:p></p><p style=\"margin: 0; font-size: 11pt; font-family: Aptos, sans-serif\"><span style=\"font-family: &quot;Segoe UI Emoji&quot;, sans-serif\">✈️</span>&nbsp;Precisa de aéreo? (X ) Sim ( ) Não<o:p></o:p></p><p style=\"margin: 0; font-size: 11pt; font-family: Aptos, sans-serif\"><span style=\"font-family: &quot;Segoe UI Emoji&quot;, sans-serif\">🛫</span>&nbsp;Aeroporto de origem: Confins Belo Horizonte&nbsp;<o:p></o:p></p><p style=\"margin: 0; font-size: 11pt; font-family: Aptos, sans-serif\"><span style=\"font-family: &quot;Segoe UI Emoji&quot;, sans-serif\">🚌</span>&nbsp;Transporte: não&nbsp;</p><p style=\"margin: 0; font-size: 11pt; font-family: Aptos, sans-serif\">Hotel Econômico com café da manhã próximo a feira&nbsp;</p><p style=\"margin: 0; font-size: 11pt; font-family: Aptos, sans-serif\"><br></p><div dir=\"ltr\">Enviado do meu iPhone</div><div dir=\"ltr\"><br><blockquote type=\"cite\">Em 23 de mar. de 2026, à(s) 08:02, FORMOBILE &lt;formobile@adturismo.com.br&gt; escreveu:<br><br></blockquote></div><blockquote type=\"cite\"><div dir=\"ltr\"><p><span style=\"font-family: &quot;Segoe UI Emoji&quot;, sans-serif\"><o:p></o:p></span></p>\n<p><span style=\"font-family: &quot;Segoe UI Emoji&quot;, sans-serif\">👤</span> Nome completo:<o:p></o:p></p>\n<p><span style=\"font-family: &quot;Segoe UI Emoji&quot;, sans-serif\">🏢</span> Nome da Empresa:<o:p></o:p></p>\n<p><span style=\"font-family: &quot;Segoe UI Emoji&quot;, sans-serif\">📅</span> Datas de hospedagem:<o:p></o:p></p>\n<p><span style=\"font-family: &quot;Segoe UI Emoji&quot;, sans-serif\">👥</span> Número de hóspedes:<o:p></o:p></p>\n<p><span style=\"font-family: &quot;Segoe UI Emoji&quot;, sans-serif\">🛏️</span> Qtde. e Tipo dos quartos (Individual, Duplo com 1 ou 2 camas, etc.):&nbsp;<o:p></o:p></p>\n<p><span style=\"font-family: &quot;Segoe UI Emoji&quot;, sans-serif\">✈️</span> Precisa de aéreo? ( ) Sim ( ) Não<o:p></o:p></p>\n<p><span style=\"font-family: &quot;Segoe UI Emoji&quot;, sans-serif\">🛫</span> Aeroporto de origem:<o:p></o:p></p>\n<p><span style=\"font-family: &quot;Segoe UI Emoji&quot;, sans-serif\">🚌</span> Transporte:</p></div></blockquote>",
       "status": "Novo",
       "justification": null,
-      "createdDate": "2026-03-23T12:17:41.5983008",
+      "createdDate": "2026-03-24T15:20:41.6246501",
       "createdBy": {
-        "id": "0659d248-3b6f-4c82-",
+        "id": "7705ac26-da3d-4de8-",
         "personType": 1,
         "profileType": 2,
-        "businessName": "Moveis Planejados - Leads",
-        "email": "franciscocleiton22@hotmail.com",
+        "businessName": "Gean Aguiar - Leads",
+        "email": "gean@agetijolos.com.br",
         "phone": null
       },
       "isDeleted": false,
       "timeAppointments": [],
-      "attachments": [
-        {
-          "fileName": "text.plain",
-          "path": "22953314BC36DEA450357ABABA5E2F7A",
-          "createdBy": {
-            "id": "0659d248-3b6f-4c82-",
-            "personType": 1,
-            "profileType": 2,
-            "businessName": "Moveis Planejados - Leads",
-            "email": "franciscocleiton22@hotmail.com",
-            "phone": null
-          },
-          "createdDate": "2026-03-23T12:17:44.4580581"
-        }
-      ],
+      "attachments": [],
       "expenses": [],
       "tags": []
     },
@@ -139,22 +134,36 @@
       "id": 2,
       "type": 2,
       "origin": 2,
-      "description": "Boa tarde, Francisco tudo bem? \nEm que podemos ajuda-lo? \n\nObservações: \n• Valores sujeitos a alteração sem aviso prévio;\n• Nada reservado, apenas cotado;         \n• Somente a emissão garante a tarifa;\nAtt,\nDaniela Rocha.\nTel: +55 11 99369-5239\n \n\n \n",
-      "htmlDescription": "<p>Boa tarde, Francisco tudo bem?&nbsp;<br><br>Em que podemos ajuda-lo?&nbsp;</p><p><br></p><div><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><strong><span style=\"font-size: 16px\">Observações:&nbsp;</span></strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><strong><span style=\"font-size: 16px; color: rgba(238, 0, 0, 1)\">• Valores sujeitos a alteração sem aviso prévio;</span></strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><strong><span style=\"font-size: 16px; color: rgba(238, 0, 0, 1)\">• Nada reservado, apenas cotado; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></strong></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><strong><span style=\"font-size: 16px; color: rgba(238, 0, 0, 1)\">• Somente a emissão garante a tarifa;</span></strong></p><p style=\"box-sizing: border-box; margin: 0; color: rgba(65, 65, 65, 1); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0; text-transform: none; widows: 2; word-spacing: 0; white-space: normal; background-color: rgba(255, 255, 255, 1); text-decoration-style: initial; text-decoration-color: initial; font-size: 15px; font-family: Aptos, sans-serif\"><span style=\"box-sizing: border-box; font-size: 16px; font-family: Calibri, sans-serif; color: rgba(14, 40, 65, 1)\"><strong style=\"box-sizing: border-box; font-weight: 700\">Att,</strong></span></p><p style=\"box-sizing: border-box; margin: 0; color: rgba(65, 65, 65, 1); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0; text-transform: none; widows: 2; word-spacing: 0; white-space: normal; background-color: rgba(255, 255, 255, 1); text-decoration-style: initial; text-decoration-color: initial; font-size: 15px; font-family: Aptos, sans-serif\"><strong>Daniela Rocha.</strong></p><p style=\"box-sizing: border-box; margin: 0; color: rgba(65, 65, 65, 1); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0; text-transform: none; widows: 2; word-spacing: 0; white-space: normal; background-color: rgba(255, 255, 255, 1); text-decoration-style: initial; text-decoration-color: initial; font-size: 15px; font-family: Aptos, sans-serif\"><span style=\"box-sizing: border-box; font-size: 16px; color: rgba(33, 94, 153, 1)\"><strong style=\"box-sizing: border-box; font-weight: 700\">Tel: +55 11 99369-5239</strong></span></p><p style=\"margin: 0; font-size: 15px; font-family: &quot;Aptos&quot;, sans-serif\"><span style=\"font-size: 16px; color: rgba(33, 94, 153, 1)\">&nbsp;</span></p><p><span style=\"font-size: 16px; font-family: &quot;Aptos&quot;, sans-serif\"><img alt=\"undefined\" class=\"fr-fic\" src=\"https://s3.amazonaws.com/movidesk-files/B20FF923B2A555F64D67D318E9259173?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&amp;Expires=1774375162&amp;Signature=UE4sARP8%2FZQeh2lQUh20WjEAi4Y%3D\" style=\"box-sizing: border-box; border: 0 none; vertical-align: bottom; cursor: pointer; padding: 0 1px; user-select: none; max-width: calc(100% - 10px); margin-left: 5px; margin-right: 5px; display: inline-block; float: none; min-width: 10px; color: rgba(65, 65, 65, 1); font-family: sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0; text-transform: none; widows: 2; word-spacing: 0; white-space: normal; background-color: rgba(255, 255, 255, 1); text-decoration-style: initial; text-decoration-color: initial; width: 831px\"></span><br></p><p style=\"box-sizing: border-box; font-family: Roboto, Helvetica, Arial, sans-serif; font-stretch: normal; letter-spacing: normal; margin: 0; color: rgba(95, 95, 95, 1); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; orphans: 2; text-indent: 0; text-transform: none; widows: 2; word-spacing: 0; white-space: normal; background-color: rgba(240, 240, 240, 1); text-decoration-style: initial; text-decoration-color: initial\"><span style=\"box-sizing: border-box; font-family: Roboto, Helvetica, Arial, sans-serif; font-stretch: normal; letter-spacing: normal\">&nbsp;</span></p></div>",
-      "status": "Em atendimento",
+      "description": "Boa tarde! \n\nSr. Gean, dando continuidade em sua solcitação, segue anexo proposta de hospedagem e aéreo para a feira FORMOBILE. \n\nComo não foi informado a data de retorno e saída do hotel, consideramos a mesma data de término da feira. \n\nAguardamos seu retorno. \n\nObservações\n• Preços sujeitos a alterações sem aviso prévio;\n• Nada reservado, apenas cotado;         \n• Somente a emissão garante a tarifa;\n\n\nAtenciosamente, \nTatiana Redondo\n\n\n",
+      "htmlDescription": "<p>Boa tarde!&nbsp;</p><p><br></p><p>Sr. Gean, dando continuidade em sua solcitação, segue anexo proposta de hospedagem e aéreo para a feira FORMOBILE.&nbsp;</p><p><br></p><p>Como não foi informado a data de retorno e saída do hotel, consideramos a mesma data de término da feira.&nbsp;</p><p><br></p><p>Aguardamos seu retorno.&nbsp;</p><div><p><br></p><p><span style=\"color: rgba(182, 66, 76, 1); font-size: inherit\"><strong>Observações</strong></span></p><p><span style=\"color: rgba(182, 66, 76, 1); font-size: inherit\"><strong>• Preços sujeitos a alterações sem aviso prévio;</strong></span></p><p><span style=\"color: rgba(182, 66, 76, 1); font-size: inherit\"><strong>• Nada reservado, apenas cotado;         </strong></span></p><p><span style=\"color: rgba(182, 66, 76, 1); font-size: inherit\"><strong>• Somente a emissão garante a tarifa;</strong></span></p><p><br></p><p style=\"margin: 0; font-size: 16px; font-family: &quot;Aptos&quot;, sans-serif\"><br></p><p style=\"margin: 0; font-size: 16px; font-family: &quot;Aptos&quot;, sans-serif\"><strong>Atenciosamente,&nbsp;</strong></p><p style=\"margin: 0; font-size: 16px; font-family: &quot;Aptos&quot;, sans-serif\"><strong>Tatiana Redondo</strong></p><p style=\"margin: 0; font-size: 16px; font-family: &quot;Aptos&quot;, sans-serif\"><img class=\"fr-fic\" border=\"0\" width=\"1015\" height=\"171\" src=\"https://s3.amazonaws.com/movidesk-files/5236961770071E4582DDFA761F627D50?AWSAccessKeyId=AKIAWSRCTWGBHCVKCQGD&amp;Expires=1774458968&amp;Signature=tITbdRPLKJqUv70iA%2BDAJR3Z%2Bu4%3D\" style=\"height: 1.783in; width: 10.575in\"></p><p><br></p></div>",
+      "status": "Novo",
       "justification": null,
-      "createdDate": "2026-03-23T18:39:27.7294767",
+      "createdDate": "2026-03-24T17:43:43.1385707",
       "createdBy": {
-        "id": "337807466",
+        "id": "306619666",
         "personType": 1,
         "profileType": 3,
-        "businessName": "Daniela Rocha",
-        "email": "daniela.rocha@adturismo.com.br",
+        "businessName": "Tatiana Redondo",
+        "email": "tatiana.redondo@adturismo.com.br",
         "phone": null
       },
       "isDeleted": false,
       "timeAppointments": [],
-      "attachments": [],
+      "attachments": [
+        {
+          "fileName": "Proposta - RARA MARCENARIA.pdf",
+          "path": "1EC2E3E3FD4266B2E9412E607821C98B",
+          "createdBy": {
+            "id": "306619666",
+            "personType": 1,
+            "profileType": 3,
+            "businessName": "Tatiana Redondo",
+            "email": "tatiana.redondo@adturismo.com.br",
+            "phone": null
+          },
+          "createdDate": "2026-03-24T17:43:44.3254534"
+        }
+      ],
       "expenses": [],
       "tags": []
     }
@@ -166,58 +175,36 @@
       "ownerTeam": null,
       "owner": null,
       "changedBy": {
-        "id": "0659d248-3b6f-4c82-",
+        "id": "7705ac26-da3d-4de8-",
         "personType": 1,
         "profileType": 2,
-        "businessName": "Moveis Planejados - Leads",
-        "email": "franciscocleiton22@hotmail.com",
+        "businessName": "Gean Aguiar - Leads",
+        "email": "gean@agetijolos.com.br",
         "phone": null
       },
-      "changedDate": "2026-03-23T12:17:41.5357647",
-      "permanencyTimeFullTime": 1.4158498,
-      "permanencyTimeWorkingTime": 1.4158498
+      "changedDate": "2026-03-24T15:20:41.5454969",
+      "permanencyTimeFullTime": 2.047012,
+      "permanencyTimeWorkingTime": 2.047012
     },
     {
       "ownerTeam": "ADF - Informa",
       "owner": {
-        "id": "1735224942",
+        "id": "306619666",
         "personType": 1,
         "profileType": 3,
-        "businessName": "Hadassa Santos",
-        "email": "hadassa.santos@adturismo.com.br",
+        "businessName": "Tatiana Redondo",
+        "email": "tatiana.redondo@adturismo.com.br",
         "phone": null
       },
       "changedBy": {
-        "id": "0659d248-3b6f-4c82-",
+        "id": "7705ac26-da3d-4de8-",
         "personType": 1,
         "profileType": 2,
-        "businessName": "Moveis Planejados - Leads",
-        "email": "franciscocleiton22@hotmail.com",
+        "businessName": "Gean Aguiar - Leads",
+        "email": "gean@agetijolos.com.br",
         "phone": null
       },
-      "changedDate": "2026-03-23T12:17:44.4580581",
-      "permanencyTimeFullTime": 22899.9103649,
-      "permanencyTimeWorkingTime": 22899.9103649
-    },
-    {
-      "ownerTeam": "ADF - Informa",
-      "owner": {
-        "id": "337807466",
-        "personType": 1,
-        "profileType": 3,
-        "businessName": "Daniela Rocha",
-        "email": "daniela.rocha@adturismo.com.br",
-        "phone": null
-      },
-      "changedBy": {
-        "id": "337807466",
-        "personType": 1,
-        "profileType": 3,
-        "businessName": "Daniela Rocha",
-        "email": "daniela.rocha@adturismo.com.br",
-        "phone": null
-      },
-      "changedDate": "2026-03-23T18:39:24.4467157",
+      "changedDate": "2026-03-24T15:20:44.8981603",
       "permanencyTimeFullTime": null,
       "permanencyTimeWorkingTime": null
     }
@@ -227,44 +214,29 @@
       "status": "Novo",
       "justification": null,
       "changedBy": {
-        "id": "0659d248-3b6f-4c82-",
+        "id": "7705ac26-da3d-4de8-",
         "personType": 1,
         "profileType": 2,
-        "businessName": "Moveis Planejados - Leads",
-        "email": "franciscocleiton22@hotmail.com",
+        "businessName": "Gean Aguiar - Leads",
+        "email": "gean@agetijolos.com.br",
         "phone": null
       },
-      "changedDate": "2026-03-23T12:17:41.5357647",
-      "permanencyTimeFullTime": 22902.7532601,
-      "permanencyTimeWorkingTime": 22902.7532601
-    },
-    {
-      "status": "Em atendimento",
-      "justification": null,
-      "changedBy": {
-        "id": "337807466",
-        "personType": 1,
-        "profileType": 3,
-        "businessName": "Daniela Rocha",
-        "email": "daniela.rocha@adturismo.com.br",
-        "phone": null
-      },
-      "changedDate": "2026-03-23T18:39:24.4467157",
-      "permanencyTimeFullTime": 4.0814749,
-      "permanencyTimeWorkingTime": 4.0814749
+      "changedDate": "2026-03-24T15:20:41.5454969",
+      "permanencyTimeFullTime": 8582.4468032,
+      "permanencyTimeWorkingTime": 8582.4468032
     },
     {
       "status": "Aguardando",
       "justification": "Retorno do participante",
       "changedBy": {
-        "id": "337807466",
+        "id": "306619666",
         "personType": 1,
         "profileType": 3,
-        "businessName": "Daniela Rocha",
-        "email": "daniela.rocha@adturismo.com.br",
+        "businessName": "Tatiana Redondo",
+        "email": "tatiana.redondo@adturismo.com.br",
         "phone": null
       },
-      "changedDate": "2026-03-23T18:39:28.7880492",
+      "changedDate": "2026-03-24T17:43:44.3254534",
       "permanencyTimeFullTime": null,
       "permanencyTimeWorkingTime": null
     }
@@ -323,7 +295,7 @@
       "customFieldId": 234900,
       "customFieldRuleId": 123605,
       "line": 1,
-      "value": "ND",
+      "value": "MG",
       "items": []
     },
     {
@@ -346,7 +318,7 @@
       "customFieldId": 238336,
       "customFieldRuleId": 125550,
       "line": 1,
-      "value": "PESSOA FÍSICA",
+      "value": "RARA MARCENARIA",
       "items": []
     }
   ],
