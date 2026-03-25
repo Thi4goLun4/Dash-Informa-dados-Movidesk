@@ -38,6 +38,9 @@ public class MovideskTicket {
     @Column(name = "client_reference")
     private String clientReference;
 
+    @Column(name = "organization_business_name")
+    private String organizationBusinessName;
+
     @Column(name = "service_first_level")
     private String serviceFirstLevel;
 

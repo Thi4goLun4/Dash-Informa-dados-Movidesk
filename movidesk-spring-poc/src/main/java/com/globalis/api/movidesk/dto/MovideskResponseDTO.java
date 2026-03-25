@@ -28,7 +28,10 @@ public record MovideskResponseDTO(
     public record PersonDTO(String id, Integer personType, Integer profileType, String businessName, String name, String email, String phone) {}
 
     @JsonIgnoreProperties(ignoreUnknown = true)
-    public record ClientDTO(String id, Integer personType, Integer profileType, String businessName, String name, String email, String phone, String reference) {}
+    public record ClientDTO(String id, Integer personType, Integer profileType, String businessName, String name, String email, String phone, String reference, OrganizationDTO organization) {}
+
+    @JsonIgnoreProperties(ignoreUnknown = true)
+    public record OrganizationDTO(String id, Integer personType, Integer profileType, String businessName, String email, String phone) {}
 
     @JsonIgnoreProperties(ignoreUnknown = true)
     public record ActionDTO(Integer id, Integer type, Integer origin, String description, PersonDTO createdBy, String createdDate, String status, String justification) {}

@@ -155,6 +155,7 @@ public class MovideskSyncService {
         // 2. Creator & Reference (Mesma Lógica de Desnormalização para B.I.)
         MovideskPerson creator = null;
         String clientRef = null;
+        String orgBusinessName = null;
         
         if (dto.createdBy() != null && dto.createdBy().id() != null) {
             creator = new MovideskPerson();
@@ -168,7 +169,11 @@ public class MovideskSyncService {
         }
         
         if (dto.clients() != null && !dto.clients().isEmpty()) {
-            clientRef = dto.clients().get(0).reference();
+            MovideskResponseDTO.ClientDTO firstClient = dto.clients().get(0);
+            clientRef = firstClient.reference();
+            if (firstClient.organization() != null) {
+                orgBusinessName = firstClient.organization().businessName();
+            }
             // Opcional: Persistir os contatos adicionais também como fizemos no JS
             for(MovideskResponseDTO.ClientDTO clientDto : dto.clients()) {
                 if (clientDto.id() != null) {
@@ -194,6 +199,7 @@ public class MovideskSyncService {
         ticket.setOwner(owner);
         ticket.setCreatedBy(creator);
         ticket.setClientReference(clientRef);
+        ticket.setOrganizationBusinessName(orgBusinessName);
         ticket.setServiceFirstLevel(dto.serviceFirstLevel());
         ticket.setServiceSecondLevel(dto.serviceSecondLevel());
         ticket.setServiceThirdLevel(dto.serviceThirdLevel());
